@@ -15,6 +15,8 @@ const CatalogPage = ({ catalog, setCatalog }) => {
   const [editingCategoryName, setEditingCategoryName] = useState('')
   const [itemForm, setItemForm] = useState(emptyItemForm)
   const [isItemModalOpen, setIsItemModalOpen] = useState(false)
+  const [selectedCategoryId, setSelectedCategoryId] = useState(null)
+  const [searchQuery, setSearchQuery] = useState('')
 
   const totalItems = useMemo(
     () => catalog.reduce((acc, category) => acc + category.items.length, 0),
@@ -97,6 +99,9 @@ const CatalogPage = ({ catalog, setCatalog }) => {
     }
 
     setCatalog((prev) => prev.filter((entry) => entry.id !== categoryId))
+    if (selectedCategoryId === categoryId) {
+      setSelectedCategoryId(null)
+    }
 
     if (itemForm.categoryId === categoryId) {
       setItemForm(emptyItemForm())
@@ -276,6 +281,37 @@ const CatalogPage = ({ catalog, setCatalog }) => {
     navigate('/export')
   }
 
+  const normalizedSearch = searchQuery.trim().toLowerCase()
+
+  const categoriesAfterCategoryFilter = useMemo(() => {
+    if (!selectedCategoryId) {
+      return catalog
+    }
+
+    return catalog.filter((category) => category.id === selectedCategoryId)
+  }, [catalog, selectedCategoryId])
+
+  const filteredCategories = useMemo(() => {
+    if (!normalizedSearch) {
+      return categoriesAfterCategoryFilter
+    }
+
+    return categoriesAfterCategoryFilter
+      .map((category) => ({
+        ...category,
+        items: category.items.filter((item) => {
+          const variantText = (item.variants || [])
+            .map((variant) => `${variant.name || ''} ${variant.description || ''}`)
+            .join(' ')
+            .toLowerCase()
+
+          const text = `${item.name || ''} ${item.modelNumber || ''} ${item.description || ''} ${variantText}`.toLowerCase()
+          return text.includes(normalizedSearch)
+        }),
+      }))
+      .filter((category) => category.items.length > 0)
+  }, [categoriesAfterCategoryFilter, normalizedSearch])
+
   return (
     <div className={ui.shell}>
       <HeroPanel
@@ -293,6 +329,11 @@ const CatalogPage = ({ catalog, setCatalog }) => {
         <CategoriesPanel
           ui={ui}
           catalog={catalog}
+          selectedCategoryId={selectedCategoryId}
+          onSelectCategory={(categoryId) =>
+            setSelectedCategoryId((prev) => (prev === categoryId ? null : categoryId))
+          }
+          onSelectAllCategories={() => setSelectedCategoryId(null)}
           categoryName={categoryName}
           setCategoryName={setCategoryName}
           addCategory={addCategory}
@@ -309,7 +350,11 @@ const CatalogPage = ({ catalog, setCatalog }) => {
 
         <ItemsPanel
           ui={ui}
-          catalog={catalog}
+          categoriesToDisplay={filteredCategories}
+          searchQuery={searchQuery}
+          onSearchQueryChange={setSearchQuery}
+          selectedCategoryId={selectedCategoryId}
+          onClearCategoryFilter={() => setSelectedCategoryId(null)}
           openNewItemModal={openNewItemModal}
           editItem={editItem}
           deleteItem={deleteItem}

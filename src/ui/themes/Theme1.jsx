@@ -55,7 +55,7 @@ export const Theme1 = ({ catalog }) => {
                           className={`grid grid-cols-3 text-xs ${index !== arr.length - 1 ? 'border-b border-dotted border-[#d1d5db]' : ''}`}
                         >
                           <div className="break-words p-2 text-center text-lg">{safeText(variant.name || item.modelNumber)}</div>
-                          <div className="break-words p-2 text-center text-lg font-bold">{safeText(variant.price)}</div>
+                          <div className="break-words p-2 text-center text-lg font-bold">₹ {safeText(variant.price)}</div>
                           <div className="break-words p-2 text-center text-lg font-bold">{getWsPrice(variant.description)}</div>
                         </div>
                       ),
