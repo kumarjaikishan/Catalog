@@ -1,8 +1,9 @@
 import { useEffect, useState } from 'react'
-import { Navigate, Route, Routes } from 'react-router-dom'
+import { Route, Routes } from 'react-router-dom'
 import { STORAGE_KEY, seedCatalog } from './catalog/utils'
 import CatalogPage from './pages/CatalogPage'
 import ExportPage from './pages/ExportPage'
+import NotFoundPage from './pages/NotFoundPage'
 
 function App() {
   const [catalog, setCatalog] = useState(() => {
@@ -36,7 +37,7 @@ function App() {
     <Routes>
       <Route path="/" element={<CatalogPage catalog={catalog} setCatalog={setCatalog} />} />
       <Route path="/export" element={<ExportPage catalog={catalog} />} />
-      <Route path="*" element={<Navigate to="/" replace />} />
+      <Route path="*" element={<NotFoundPage />} />
     </Routes>
   )
 }
