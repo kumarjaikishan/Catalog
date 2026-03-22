@@ -11,13 +11,12 @@ const normalizeCatalog = (catalog) =>
       name: item.name,
       modelNumber: item.modelNumber,
       description: item.description,
-      imageData: item.imageData || item.variants?.[0]?.imageData || '',
+      imageData: item.imageData || '',
       variants: (item.variants || []).map((variant, variantIndex) => ({
         id: variant.id || `variant-${categoryIndex + 1}-${itemIndex + 1}-${variantIndex + 1}`,
         name: variant.name,
         price: variant.price,
         description: variant.description,
-        imageData: variant.imageData || '',
       })),
     })),
   }))

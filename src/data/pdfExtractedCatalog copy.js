@@ -10,11 +10,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "215",
-            "description": "WS Price: INR 230",
-            "imageData": "https://picsum.photos/seed/rukhi-160/320/220",
-            "imageName": "random-160.jpg"
+            "description": "WS Price: INR 230"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "PHONE CAMERA DUST PROOF STICKER DP-12",
@@ -24,11 +24,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "180",
-            "description": "WS Price: INR 190",
-            "imageData": "https://picsum.photos/seed/rukhi-160/320/2200/320/220",
-            "imageName": "random-161.jpg"
+            "description": "WS Price: INR 190"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "CAMERA DUST REMOVAL STICK MECHANIC CD-48",
@@ -38,11 +38,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "130",
-            "description": "WS Price: INR 150",
-            "imageData": "https://picsum.photos/seed/rukhi-160/320/220",
-            "imageName": "random-162.jpg"
+            "description": "WS Price: INR 150"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "CAMERA DUST REMOVAL STICK RELIFE RL-094",
@@ -52,11 +52,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "140",
-            "description": "WS Price: INR 150",
-            "imageData": "https://picsum.photos/seed/rukhi-160/320/220",
-            "imageName": "random-163.jpg"
+            "description": "WS Price: INR 150"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "MINI MICRO TIP SHARPENER 2UUL DA-79",
@@ -66,11 +66,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1765",
-            "description": "WS Price: INR 1800",
-            "imageData": "https://picsum.photos/seed/rukhi-160/320/220",
-            "imageName": "random-164.jpg"
+            "description": "WS Price: INR 1800"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "MULTI-PURPOSE SHOVEL RELIFE RL-073",
@@ -80,11 +80,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "115",
-            "description": "WS Price: INR 125",
-            "imageData": "https://picsum.photos/seed/rukhi-160/320/220",
-            "imageName": "random-165.jpg"
+            "description": "WS Price: INR 125"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "ADVANCED SILICONE DUSTER MECHANIC B-110",
@@ -94,11 +94,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "100",
-            "description": "WS Price: INR 110",
-            "imageData": "https://picsum.photos/seed/rukhi-160/320/220",
-            "imageName": "random-166.jpg"
+            "description": "WS Price: INR 110"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       }
     ]
   },
@@ -106,46 +106,46 @@ export const generatedCatalogSeed = [
     "name": "AFTER REPAIR",
     "items": [
       {
-        "name": "SOLDER PASTE PPD [16g] X-G30 [183\u00b0C]",
-        "modelNumber": "[183\u00b0C]",
+        "name": "SOLDER PASTE PPD [16g] X-G30 [183°C]",
+        "modelNumber": "[183°C]",
         "description": "SOLDER PASTE PPD [16g] | X-G30",
         "variants": [
           {
             "name": "Standard",
             "price": "65",
-            "description": "WS Price: INR 70",
-            "imageData": "https://picsum.photos/seed/rukhi-160/320/220",
-            "imageName": "random-417.jpg"
+            "description": "WS Price: INR 70"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
-        "name": "SOLDER PASTE PPD 2UUL 199\u00b0C",
-        "modelNumber": "2UUL 199\u00b0C",
+        "name": "SOLDER PASTE PPD 2UUL 199°C",
+        "modelNumber": "2UUL 199°C",
         "description": "SOLDER PASTE PPD",
         "variants": [
           {
             "name": "Standard",
             "price": "250",
-            "description": "WS Price: INR 270",
-            "imageData": "https://picsum.photos/seed/rukhi-160/320/220",
-            "imageName": "random-418.jpg"
+            "description": "WS Price: INR 270"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
-        "name": "SOLDER PASTE PPD RL-402 [183\u00b0C]",
-        "modelNumber": "[183\u00b0C]",
+        "name": "SOLDER PASTE PPD RL-402 [183°C]",
+        "modelNumber": "[183°C]",
         "description": "SOLDER PASTE PPD | RL-402",
         "variants": [
           {
             "name": "Standard",
             "price": "165",
-            "description": "WS Price: INR 175",
-            "imageData": "https://picsum.photos/seed/rukhi-160/320/220",
-            "imageName": "random-419.jpg"
+            "description": "WS Price: INR 175"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "CPU FEVER PASTE FOR COOLING CPU AFTER REPAIR SC-10",
@@ -155,11 +155,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "218",
-            "description": "WS Price: INR 230",
-            "imageData": "https://picsum.photos/seed/rukhi-420/320/220",
-            "imageName": "random-420.jpg"
+            "description": "WS Price: INR 230"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "PASTE BLACK [50ML] KOOCU T-7000",
@@ -169,11 +169,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "36",
-            "description": "WS Price: INR 38",
-            "imageData": "https://picsum.photos/seed/rukhi-421/320/220",
-            "imageName": "random-421.jpg"
+            "description": "WS Price: INR 38"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "PASTE BLACK [50ML] MECHANIC T-7000",
@@ -183,11 +183,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "39",
-            "description": "WS Price: INR 42",
-            "imageData": "https://picsum.photos/seed/rukhi-422/320/220",
-            "imageName": "random-422.jpg"
+            "description": "WS Price: INR 42"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "PASTE MILKY WHITE [50ML] MECHANIC T-9000",
@@ -197,11 +197,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "44",
-            "description": "WS Price: INR 50",
-            "imageData": "https://picsum.photos/seed/rukhi-423/320/220",
-            "imageName": "random-423.jpg"
+            "description": "WS Price: INR 50"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "PASTE BLACK [50ML] SUNSHINE SS-G21",
@@ -211,11 +211,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "68",
-            "description": "WS Price: INR 70",
-            "imageData": "https://picsum.photos/seed/rukhi-424/320/220",
-            "imageName": "random-424.jpg"
+            "description": "WS Price: INR 70"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       }
     ]
   },
@@ -230,11 +230,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "165",
-            "description": "WS Price: INR 170",
-           "imageData": "https://picsum.photos/seed/rukhi-160/320/220",
-            "imageName": "random-152.jpg"
+            "description": "WS Price: INR 170"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "ESD SAFE SOLVENT DISPENSER ESD BOTTLE",
@@ -244,11 +244,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "35",
-            "description": "WS Price: INR 40",
-            "imageData": "https://picsum.photos/seed/rukhi-153/320/220",
-            "imageName": "random-153.jpg"
+            "description": "WS Price: INR 40"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "PLASTIC BOTTLE SUNSHINE B-60",
@@ -258,11 +258,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "49",
-            "description": "WS Price: INR 55",
-           "imageData": "https://picsum.photos/seed/rukhi-160/320/220",
-            "imageName": "random-154.jpg"
+            "description": "WS Price: INR 55"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "SOLVENT BOTTLE RELIFE TB-2",
@@ -272,11 +272,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "25",
-            "description": "WS Price: INR 30",
-            "imageData": "https://picsum.photos/seed/rukhi-160/320/220",
-            "imageName": "random-155.jpg"
+            "description": "WS Price: INR 30"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "WITH NEEDLE WTS-001 [50ML] 8 10",
@@ -286,11 +286,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "50",
-            "description": "WS Price: INR 10",
-            "imageData": "https://picsum.photos/seed/rukhi-160/320/220",
-            "imageName": "random-156.jpg"
+            "description": "WS Price: INR 10"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "WITH NEEDLE WTS-002 [100ML]",
@@ -300,11 +300,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "14",
-            "description": "WS Price: INR 16",
-           "imageData": "https://picsum.photos/seed/rukhi-160/320/220",
-            "imageName": "random-157.jpg"
+            "description": "WS Price: INR 16"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "HEAT RESISTANCE GLOVES RELIFE RL-063A",
@@ -314,11 +314,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "95",
-            "description": "WS Price: INR 110",
-           "imageData": "https://picsum.photos/seed/rukhi-160/320/220",
-            "imageName": "random-158.jpg"
+            "description": "WS Price: INR 110"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "FRONT CAMERA PROTECTIVE STICKER DA-31",
@@ -328,11 +328,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "157",
-            "description": "WS Price: INR 165",
-           "imageData": "https://picsum.photos/seed/rukhi-160/320/220",
-            "imageName": "random-159.jpg"
+            "description": "WS Price: INR 165"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       }
     ]
   },
@@ -347,11 +347,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "265",
-            "description": "WS Price: INR 290",
-            "imageData": "https://picsum.photos/seed/rukhi-191/320/220",
-            "imageName": "random-191.jpg"
+            "description": "WS Price: INR 290"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "MULTI METER PEN 2UUL MT-01",
@@ -361,11 +361,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "360",
-            "description": "WS Price: INR 380",
-            "imageData": "https://picsum.photos/seed/rukhi-192/320/220",
-            "imageName": "random-192.jpg"
+            "description": "WS Price: INR 380"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "MULTIMETER WIRE SUNSHINE SS-024A",
@@ -375,11 +375,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "165",
-            "description": "WS Price: INR 180",
-            "imageData": "https://picsum.photos/seed/rukhi-193/320/220",
-            "imageName": "random-193.jpg"
+            "description": "WS Price: INR 180"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "STAINLESS STEEL MULTIMETER PEN MECHANIC P-40",
@@ -389,11 +389,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "200",
-            "description": "WS Price: INR 220",
-            "imageData": "https://picsum.photos/seed/rukhi-194/320/220",
-            "imageName": "random-194.jpg"
+            "description": "WS Price: INR 220"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "MULTIMETER PEN KOOCU MT-01",
@@ -403,11 +403,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "95",
-            "description": "WS Price: INR 110",
-            "imageData": "https://picsum.photos/seed/rukhi-195/320/220",
-            "imageName": "random-195.jpg"
+            "description": "WS Price: INR 110"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "SHORT KILLER MECHANIC i-SHORT PRO",
@@ -417,11 +417,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1250",
-            "description": "WS Price: INR 1350",
-            "imageData": "https://picsum.photos/seed/rukhi-196/320/220",
-            "imageName": "random-196.jpg"
+            "description": "WS Price: INR 1350"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "PORT CHECK PRO TAIL PLUG AUTOMATIC DETECTOR PW-31",
@@ -431,11 +431,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1080",
-            "description": "WS Price: INR 1100",
-            "imageData": "https://picsum.photos/seed/rukhi-197/320/220",
-            "imageName": "random-197.jpg"
+            "description": "WS Price: INR 1100"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       }
     ]
   },
@@ -450,11 +450,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "495",
-            "description": "WS Price: INR 550",
-            "imageData": "https://picsum.photos/seed/rukhi-206/320/220",
-            "imageName": "random-206.jpg"
+            "description": "WS Price: INR 550"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "BATTERY ACTIVATION BOARD [FOR IP&ANDROID] MASTERGO B-20+",
@@ -464,11 +464,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "645",
-            "description": "WS Price: INR 680",
-            "imageData": "https://picsum.photos/seed/rukhi-207/320/220",
-            "imageName": "random-207.jpg"
+            "description": "WS Price: INR 680"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "BATTERY ACTIVATION BOARD [FOR IP&ANDROID] MECHANIC BA-27+",
@@ -478,11 +478,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "750",
-            "description": "WS Price: INR 780",
-            "imageData": "https://picsum.photos/seed/rukhi-208/320/220",
-            "imageName": "random-208.jpg"
+            "description": "WS Price: INR 780"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "BATTERY ACTIVATION BOARD [ANDROID] MECHANIC PRO-20",
@@ -492,11 +492,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "545",
-            "description": "WS Price: INR 580",
-            "imageData": "https://picsum.photos/seed/rukhi-209/320/220",
-            "imageName": "random-209.jpg"
+            "description": "WS Price: INR 580"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "BATTERY ACTIVATION BOARD SUNSHINE SS-904A",
@@ -506,11 +506,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "420",
-            "description": "WS Price: INR 450",
-            "imageData": "https://picsum.photos/seed/rukhi-210/320/220",
-            "imageName": "random-210.jpg"
+            "description": "WS Price: INR 450"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "INDUCTANCE TESTER RELIFE XA-5",
@@ -520,11 +520,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "85",
-            "description": "WS Price: INR 95",
-            "imageData": "https://picsum.photos/seed/rukhi-211/320/220",
-            "imageName": "random-211.jpg"
+            "description": "WS Price: INR 95"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "BATTERY GLUE REMOVAL TOOL RELIFE RL-910",
@@ -534,11 +534,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "170",
-            "description": "WS Price: INR 190",
-            "imageData": "https://picsum.photos/seed/rukhi-212/320/220",
-            "imageName": "random-212.jpg"
+            "description": "WS Price: INR 190"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       }
     ]
   },
@@ -553,11 +553,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "60",
-            "description": "WS Price: INR 65",
-            "imageData": "https://picsum.photos/seed/rukhi-434/320/220",
-            "imageName": "random-434.jpg"
+            "description": "WS Price: INR 65"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "NANO FLUX PASTE MECHANIC M-35 [10cc]",
@@ -567,11 +567,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "148",
-            "description": "WS Price: INR 155",
-            "imageData": "https://picsum.photos/seed/rukhi-435/320/220",
-            "imageName": "random-435.jpg"
+            "description": "WS Price: INR 155"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "420",
@@ -581,11 +581,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "49",
-            "description": "WS Price: INR 51",
-            "imageData": "https://picsum.photos/seed/rukhi-436/320/220",
-            "imageName": "random-436.jpg"
+            "description": "WS Price: INR 51"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "421",
@@ -595,11 +595,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "49",
-            "description": "WS Price: INR 51",
-            "imageData": "https://picsum.photos/seed/rukhi-437/320/220",
-            "imageName": "random-437.jpg"
+            "description": "WS Price: INR 51"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "FLUX SOLDER PASTE YCS NO.1 5cc",
@@ -609,11 +609,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "80",
-            "description": "WS Price: INR 85",
-            "imageData": "https://picsum.photos/seed/rukhi-438/320/220",
-            "imageName": "random-438.jpg"
+            "description": "WS Price: INR 85"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "SOLDER FLUX [10CC] 2UUL SC-14",
@@ -623,11 +623,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "89",
-            "description": "WS Price: INR 95",
-            "imageData": "https://picsum.photos/seed/rukhi-439/320/220",
-            "imageName": "random-439.jpg"
+            "description": "WS Price: INR 95"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "GREEN FLUX 2UUL SC-18",
@@ -637,11 +637,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "182",
-            "description": "WS Price: INR 190",
-            "imageData": "https://picsum.photos/seed/rukhi-440/320/220",
-            "imageName": "random-440.jpg"
+            "description": "WS Price: INR 190"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "ANTIOXIDANT FLUX PASTE MECHANIC Q-60",
@@ -651,11 +651,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "58",
-            "description": "WS Price: INR 65",
-            "imageData": "https://picsum.photos/seed/rukhi-441/320/220",
-            "imageName": "random-441.jpg"
+            "description": "WS Price: INR 65"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "ANTIOXIDANT FLUX PASTE MECHANIC Q-80",
@@ -665,11 +665,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "98",
-            "description": "WS Price: INR 105",
-            "imageData": "https://picsum.photos/seed/rukhi-442/320/220",
-            "imageName": "random-442.jpg"
+            "description": "WS Price: INR 105"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       }
     ]
   },
@@ -684,11 +684,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1050",
-            "description": "WS Price: INR 1100",
-            "imageData": "https://picsum.photos/seed/rukhi-198/320/220",
-            "imageName": "random-198.jpg"
+            "description": "WS Price: INR 1100"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "1 and 8 IP Boot Cable (IOS) MASTERGO MG-IP 10",
@@ -698,11 +698,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "320",
-            "description": "WS Price: INR 350",
-            "imageData": "https://picsum.photos/seed/rukhi-199/320/220",
-            "imageName": "random-199.jpg"
+            "description": "WS Price: INR 350"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "POWER BOOT CABLE (IOS & ANDROID) POWER MAX",
@@ -712,11 +712,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "760",
-            "description": "WS Price: INR 800",
-            "imageData": "https://picsum.photos/seed/rukhi-200/320/220",
-            "imageName": "random-200.jpg"
+            "description": "WS Price: INR 800"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "POWER BOOT CABLE (IOS & ANDROID) POWER ULTRA",
@@ -726,11 +726,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "780",
-            "description": "WS Price: INR 850",
-            "imageData": "https://picsum.photos/seed/rukhi-201/320/220",
-            "imageName": "random-201.jpg"
+            "description": "WS Price: INR 850"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "POWER BOOT CABLE [ANDROID] MASTERGO MG-AD18",
@@ -740,11 +740,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "810",
-            "description": "WS Price: INR 850",
-            "imageData": "https://picsum.photos/seed/rukhi-202/320/220",
-            "imageName": "random-202.jpg"
+            "description": "WS Price: INR 850"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "POWER BOOT CABLE [ANDROID] KOOCU K-116",
@@ -754,11 +754,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "880",
-            "description": "WS Price: INR 920",
-            "imageData": "https://picsum.photos/seed/rukhi-203/320/220",
-            "imageName": "random-203.jpg"
+            "description": "WS Price: INR 920"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "POWER BOOT CABLE [ANDROID] 2UUL PW-04",
@@ -768,11 +768,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "935",
-            "description": "WS Price: INR 950",
-            "imageData": "https://picsum.photos/seed/rukhi-204/320/220",
-            "imageName": "random-204.jpg"
+            "description": "WS Price: INR 950"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "ANDROID POWER BOOT CABLE BUCKLE M079",
@@ -782,11 +782,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "290",
-            "description": "WS Price: INR 320",
-            "imageData": "https://picsum.photos/seed/rukhi-205/320/220",
-            "imageName": "random-205.jpg"
+            "description": "WS Price: INR 320"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       }
     ]
   },
@@ -801,11 +801,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "30",
-            "description": "WS Price: INR 35",
-            "imageData": "https://picsum.photos/seed/rukhi-379/320/220",
-            "imageName": "random-379.jpg"
+            "description": "WS Price: INR 35"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "BRUSH KOOCU BS-02",
@@ -815,11 +815,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "42",
-            "description": "WS Price: INR 45",
-            "imageData": "https://picsum.photos/seed/rukhi-380/320/220",
-            "imageName": "random-380.jpg"
+            "description": "WS Price: INR 45"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "BRUSH 2UUL CL-11",
@@ -829,11 +829,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "174",
-            "description": "WS Price: INR 180",
-            "imageData": "https://picsum.photos/seed/rukhi-381/320/220",
-            "imageName": "random-381.jpg"
+            "description": "WS Price: INR 180"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "BRUSH SUNSHINE SS-022A",
@@ -843,11 +843,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "15",
-            "description": "WS Price: INR 18",
-            "imageData": "https://picsum.photos/seed/rukhi-382/320/220",
-            "imageName": "random-382.jpg"
+            "description": "WS Price: INR 18"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "BRUSH SUNSHINE SS-022B",
@@ -857,11 +857,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "59",
-            "description": "WS Price: INR 65",
-            "imageData": "https://picsum.photos/seed/rukhi-383/320/220",
-            "imageName": "random-383.jpg"
+            "description": "WS Price: INR 65"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "HAND FINISH BLADE KOOCU KC-BL041",
@@ -871,11 +871,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "137",
-            "description": "WS Price: INR 145",
-            "imageData": "https://picsum.photos/seed/rukhi-384/320/220",
-            "imageName": "random-384.jpg"
+            "description": "WS Price: INR 145"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "HAND FINISH BLADE 2UUL DA-11",
@@ -885,11 +885,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "355",
-            "description": "WS Price: INR 380",
-            "imageData": "https://picsum.photos/seed/rukhi-385/320/220",
-            "imageName": "random-385.jpg"
+            "description": "WS Price: INR 380"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       }
     ]
   },
@@ -904,11 +904,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "75",
-            "description": "WS Price: INR 80",
-            "imageData": "https://picsum.photos/seed/rukhi-393/320/220",
-            "imageName": "random-393.jpg"
+            "description": "WS Price: INR 80"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "RAZOR-SHARP BLADE MC-003 [3PCS]",
@@ -918,11 +918,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "190",
-            "description": "WS Price: INR 200",
-            "imageData": "https://picsum.photos/seed/rukhi-394/320/220",
-            "imageName": "random-394.jpg"
+            "description": "WS Price: INR 200"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "BSD-4A",
@@ -932,11 +932,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "28",
-            "description": "WS Price: INR 35",
-            "imageData": "https://picsum.photos/seed/rukhi-395/320/220",
-            "imageName": "random-395.jpg"
+            "description": "WS Price: INR 35"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "BSD-17",
@@ -946,11 +946,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "28",
-            "description": "WS Price: INR 35",
-            "imageData": "https://picsum.photos/seed/rukhi-396/320/220",
-            "imageName": "random-396.jpg"
+            "description": "WS Price: INR 35"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "BSD-3",
@@ -960,11 +960,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "28",
-            "description": "WS Price: INR 35",
-            "imageData": "https://picsum.photos/seed/rukhi-397/320/220",
-            "imageName": "random-397.jpg"
+            "description": "WS Price: INR 35"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "BSD-11",
@@ -974,11 +974,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "28",
-            "description": "WS Price: INR 35",
-            "imageData": "https://picsum.photos/seed/rukhi-398/320/220",
-            "imageName": "random-398.jpg"
+            "description": "WS Price: INR 35"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "DUAL SIDE BLADE HANDLE BLADE HANDLE",
@@ -988,11 +988,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "130",
-            "description": "WS Price: INR 150",
-            "imageData": "https://picsum.photos/seed/rukhi-399/320/220",
-            "imageName": "random-399.jpg"
+            "description": "WS Price: INR 150"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "BLADE DOUBLE-END KNIFE SET SS-101F",
@@ -1002,11 +1002,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "235",
-            "description": "WS Price: INR 250",
-            "imageData": "https://picsum.photos/seed/rukhi-400/320/220",
-            "imageName": "random-400.jpg"
+            "description": "WS Price: INR 250"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "DOCTOR NO.11 Surgical Blades (100PCS/BOX) NO-11",
@@ -1016,11 +1016,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "150",
-            "description": "WS Price: INR 160",
-            "imageData": "https://picsum.photos/seed/rukhi-401/320/220",
-            "imageName": "random-401.jpg"
+            "description": "WS Price: INR 160"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       }
     ]
   },
@@ -1035,11 +1035,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1950",
-            "description": "WS Price: INR 2100",
-            "imageData": "https://picsum.photos/seed/rukhi-14/320/220",
-            "imageName": "random-14.jpg"
+            "description": "WS Price: INR 2100"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "FILM CUTTING MACHINE E-360 [12-INCH]",
@@ -1049,11 +1049,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "25600",
-            "description": "WS Price: INR 25800",
-            "imageData": "https://picsum.photos/seed/rukhi-15/320/220",
-            "imageName": "random-15.jpg"
+            "description": "WS Price: INR 25800"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "FILM CUTTING MACHINE E-360 MAX [16-INCH]",
@@ -1063,11 +1063,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "26800",
-            "description": "WS Price: INR 27500",
-            "imageData": "https://picsum.photos/seed/rukhi-16/320/220",
-            "imageName": "random-16.jpg"
+            "description": "WS Price: INR 27500"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "FILM CUTTING MACHINE SUNSHINE Y22 PLUS",
@@ -1077,11 +1077,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "29200",
-            "description": "WS Price: INR 29500",
-            "imageData": "https://picsum.photos/seed/rukhi-17/320/220",
-            "imageName": "random-17.jpg"
+            "description": "WS Price: INR 29500"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "FILM CUTTING MACHINE SUNSHINE Y25 PLUS",
@@ -1091,11 +1091,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "26800",
-            "description": "WS Price: INR 27500",
-            "imageData": "https://picsum.photos/seed/rukhi-18/320/220",
-            "imageName": "random-18.jpg"
+            "description": "WS Price: INR 27500"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "FILM CUTTING MACHINE SUNSHINE Y26 PLUS",
@@ -1105,11 +1105,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "26600",
-            "description": "WS Price: INR 27200",
-            "imageData": "https://picsum.photos/seed/rukhi-19/320/220",
-            "imageName": "random-19.jpg"
+            "description": "WS Price: INR 27200"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "UV CURING VACUUM & FILMING MACHINE SS-918B SE",
@@ -1119,11 +1119,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1290",
-            "description": "WS Price: INR 1350",
-            "imageData": "https://picsum.photos/seed/rukhi-20/320/220",
-            "imageName": "random-20.jpg"
+            "description": "WS Price: INR 1350"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "COLOR FILM PRINTER SUNSHINE C1 MINI",
@@ -1133,11 +1133,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "14300",
-            "description": "WS Price: INR 14500",
-            "imageData": "https://picsum.photos/seed/rukhi-21/320/220",
-            "imageName": "random-21.jpg"
+            "description": "WS Price: INR 14500"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       }
     ]
   },
@@ -1152,11 +1152,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "90",
-            "description": "WS Price: INR 100",
-            "imageData": "https://picsum.photos/seed/rukhi-310/320/220",
-            "imageName": "random-310.jpg"
+            "description": "WS Price: INR 100"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "MOTHERBOARD FIXTURE RF4 FT-02",
@@ -1166,11 +1166,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "450",
-            "description": "WS Price: INR 500",
-            "imageData": "https://picsum.photos/seed/rukhi-311/320/220",
-            "imageName": "random-311.jpg"
+            "description": "WS Price: INR 500"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "MOTHERBOARD FIXTURE RF4 FT-03",
@@ -1180,11 +1180,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "890",
-            "description": "WS Price: INR 950",
-            "imageData": "https://picsum.photos/seed/rukhi-312/320/220",
-            "imageName": "random-312.jpg"
+            "description": "WS Price: INR 950"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "MAXX PULLER SCREEN OPENER 2UUL DA-06",
@@ -1194,11 +1194,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "2270",
-            "description": "WS Price: INR 2300",
-            "imageData": "https://picsum.photos/seed/rukhi-313/320/220",
-            "imageName": "random-313.jpg"
+            "description": "WS Price: INR 2300"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "PRO PULLER SCREEN OPENER 2UUL DA-08",
@@ -1208,11 +1208,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1235",
-            "description": "WS Price: INR 1280",
-            "imageData": "https://picsum.photos/seed/rukhi-314/320/220",
-            "imageName": "random-314.jpg"
+            "description": "WS Price: INR 1280"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "MULTI FUNCTIONAL REPAIR FIXTURE BT-C824",
@@ -1222,11 +1222,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "495",
-            "description": "WS Price: INR 550",
-            "imageData": "https://picsum.photos/seed/rukhi-315/320/220",
-            "imageName": "random-315.jpg"
+            "description": "WS Price: INR 550"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "MULTIFUNCTIONAL ROTATING FIXTURE MA-ANT H3-PRO",
@@ -1236,11 +1236,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1595",
-            "description": "WS Price: INR 1650",
-            "imageData": "https://picsum.photos/seed/rukhi-316/320/220",
-            "imageName": "random-316.jpg"
+            "description": "WS Price: INR 1650"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "MULTIFUNCTIONAL FRAME CORRECTOR RL601P",
@@ -1250,11 +1250,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1760",
-            "description": "WS Price: INR 1800",
-            "imageData": "https://picsum.photos/seed/rukhi-317/320/220",
-            "imageName": "random-317.jpg"
+            "description": "WS Price: INR 1800"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "MULTIFUNCTIONAL FRAME CORRECTOR RL-601P MAX",
@@ -1264,11 +1264,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "2860",
-            "description": "WS Price: INR 2900",
-            "imageData": "https://picsum.photos/seed/rukhi-318/320/220",
-            "imageName": "random-318.jpg"
+            "description": "WS Price: INR 2900"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       }
     ]
   },
@@ -1283,11 +1283,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "190",
-            "description": "WS Price: INR 210",
-            "imageData": "https://picsum.photos/seed/rukhi-145/320/220",
-            "imageName": "random-145.jpg"
+            "description": "WS Price: INR 210"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "CUTTING PLIERS 2UUL DA-83",
@@ -1297,11 +1297,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "200",
-            "description": "WS Price: INR 210",
-            "imageData": "https://picsum.photos/seed/rukhi-146/320/220",
-            "imageName": "random-146.jpg"
+            "description": "WS Price: INR 210"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "CUTTING PLIERS ONE STOP OS-109",
@@ -1311,11 +1311,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "68",
-            "description": "WS Price: INR 75",
-            "imageData": "https://picsum.photos/seed/rukhi-147/320/220",
-            "imageName": "random-147.jpg"
+            "description": "WS Price: INR 75"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "CUTTING PLIERS KOOCU KC-126",
@@ -1325,11 +1325,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "150",
-            "description": "WS Price: INR 160",
-            "imageData": "https://picsum.photos/seed/rukhi-148/320/220",
-            "imageName": "random-148.jpg"
+            "description": "WS Price: INR 160"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "CUTTING PLIERS RELIFE RL-113",
@@ -1339,11 +1339,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "75",
-            "description": "WS Price: INR 90",
-            "imageData": "https://picsum.photos/seed/rukhi-149/320/220",
-            "imageName": "random-149.jpg"
+            "description": "WS Price: INR 90"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "EGO NIPPER CUTTER EGO-06",
@@ -1353,11 +1353,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "50",
-            "description": "WS Price: INR 55",
-            "imageData": "https://picsum.photos/seed/rukhi-150/320/220",
-            "imageName": "random-150.jpg"
+            "description": "WS Price: INR 55"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "EGO NIPPER CUTTER ( POUCH PACKING ) EGO-07",
@@ -1367,11 +1367,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "30",
-            "description": "WS Price: INR 35",
-            "imageData": "https://picsum.photos/seed/rukhi-151/320/220",
-            "imageName": "random-151.jpg"
+            "description": "WS Price: INR 35"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       }
     ]
   },
@@ -1386,11 +1386,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "28",
-            "description": "WS Price: INR 32",
-            "imageData": "https://picsum.photos/seed/rukhi-263/320/220",
-            "imageName": "random-263.jpg"
+            "description": "WS Price: INR 32"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "0.35mm",
@@ -1400,11 +1400,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "28",
-            "description": "WS Price: INR 32",
-            "imageData": "https://picsum.photos/seed/rukhi-264/320/220",
-            "imageName": "random-264.jpg"
+            "description": "WS Price: INR 32"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "0.4mm",
@@ -1414,11 +1414,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "28",
-            "description": "WS Price: INR 32",
-            "imageData": "https://picsum.photos/seed/rukhi-265/320/220",
-            "imageName": "random-265.jpg"
+            "description": "WS Price: INR 32"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "CUTTING WIRE QM-1 [0.28mm]",
@@ -1428,11 +1428,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "44",
-            "description": "WS Price: INR 50",
-            "imageData": "https://picsum.photos/seed/rukhi-266/320/220",
-            "imageName": "random-266.jpg"
+            "description": "WS Price: INR 50"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "CUTTING WIRE WR01 0.035MM",
@@ -1442,11 +1442,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "62",
-            "description": "WS Price: INR 65",
-            "imageData": "https://picsum.photos/seed/rukhi-267/320/220",
-            "imageName": "random-267.jpg"
+            "description": "WS Price: INR 65"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "CUTTING WIRE RL-059D [0.3mm]",
@@ -1456,11 +1456,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "26",
-            "description": "WS Price: INR 30",
-            "imageData": "https://picsum.photos/seed/rukhi-268/320/220",
-            "imageName": "random-268.jpg"
+            "description": "WS Price: INR 30"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "VAJRA WIRE SEPARATOR WIRE DA-21",
@@ -1470,11 +1470,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "35",
-            "description": "WS Price: INR 40",
-            "imageData": "https://picsum.photos/seed/rukhi-269/320/220",
-            "imageName": "random-269.jpg"
+            "description": "WS Price: INR 40"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "0.2mm",
@@ -1484,11 +1484,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "32",
-            "description": "WS Price: INR 35",
-            "imageData": "https://picsum.photos/seed/rukhi-270/320/220",
-            "imageName": "random-270.jpg"
+            "description": "WS Price: INR 35"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "0.3mm",
@@ -1498,11 +1498,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "32",
-            "description": "WS Price: INR 35",
-            "imageData": "https://picsum.photos/seed/rukhi-271/320/220",
-            "imageName": "random-271.jpg"
+            "description": "WS Price: INR 35"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "0.4mm",
@@ -1512,11 +1512,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "32",
-            "description": "WS Price: INR 35",
-            "imageData": "https://picsum.photos/seed/rukhi-272/320/220",
-            "imageName": "random-272.jpg"
+            "description": "WS Price: INR 35"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       }
     ]
   },
@@ -1531,11 +1531,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "17400",
-            "description": "WS Price: INR 17600",
-            "imageData": "https://picsum.photos/seed/rukhi-30/320/220",
-            "imageName": "random-30.jpg"
+            "description": "WS Price: INR 17600"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "BINOCULAR Stereo Microscope MECHANIC (WITH LENS) D-75S",
@@ -1545,11 +1545,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "11800",
-            "description": "WS Price: INR 12000",
-            "imageData": "https://picsum.photos/seed/rukhi-31/320/220",
-            "imageName": "random-31.jpg"
+            "description": "WS Price: INR 12000"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "MECHANIC (WITH LENS) E2-B11 [60X ZOOM]",
@@ -1559,11 +1559,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "12150",
-            "description": "WS Price: INR 12300",
-            "imageData": "https://picsum.photos/seed/rukhi-32/320/220",
-            "imageName": "random-32.jpg"
+            "description": "WS Price: INR 12300"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "BINOCULAR STEREO MICROSCOPE MECHANIC (WITH LENS) MOS 260-B11",
@@ -1573,11 +1573,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "12460",
-            "description": "WS Price: INR 12500",
-            "imageData": "https://picsum.photos/seed/rukhi-33/320/220",
-            "imageName": "random-33.jpg"
+            "description": "WS Price: INR 12500"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "DIGITAL MICROSCOPE",
@@ -1587,11 +1587,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "850",
-            "description": "WS Price: INR 950",
-            "imageData": "https://picsum.photos/seed/rukhi-34/320/220",
-            "imageName": "random-34.jpg"
+            "description": "WS Price: INR 950"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "DIGITAL MICROSCOPE [7 INCH] 7 INCH",
@@ -1601,11 +1601,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "3580",
-            "description": "WS Price: INR 3650",
-            "imageData": "https://picsum.photos/seed/rukhi-35/320/220",
-            "imageName": "random-35.jpg"
+            "description": "WS Price: INR 3650"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "DIGITAL MICROSCOPE [10.1INCH] KC-HD31",
@@ -1615,11 +1615,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "6890",
-            "description": "WS Price: INR 7000",
-            "imageData": "https://picsum.photos/seed/rukhi-36/320/220",
-            "imageName": "random-36.jpg"
+            "description": "WS Price: INR 7000"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "DIGITAL MICROSCOPE [9 INCH] 9 INCH",
@@ -1629,11 +1629,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "4675",
-            "description": "WS Price: INR 4900",
-            "imageData": "https://picsum.photos/seed/rukhi-37/320/220",
-            "imageName": "random-37.jpg"
+            "description": "WS Price: INR 4900"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       }
     ]
   },
@@ -1648,11 +1648,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "390",
-            "description": "WS Price: INR 450",
-            "imageData": "https://picsum.photos/seed/rukhi-453/320/220",
-            "imageName": "random-453.jpg"
+            "description": "WS Price: INR 450"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "MANUAL GLUE GUN RELIFE RL-062A",
@@ -1662,11 +1662,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "260",
-            "description": "WS Price: INR 280",
-            "imageData": "https://picsum.photos/seed/rukhi-454/320/220",
-            "imageName": "random-454.jpg"
+            "description": "WS Price: INR 280"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "MANUAL GLUE GUN RELIFE RL-062D",
@@ -1676,11 +1676,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "55",
-            "description": "WS Price: INR 60",
-            "imageData": "https://picsum.photos/seed/rukhi-455/320/220",
-            "imageName": "random-455.jpg"
+            "description": "WS Price: INR 60"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "HAND ACTUATED GLUE GUN 2UUL SC-06",
@@ -1690,11 +1690,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "250",
-            "description": "WS Price: INR 260",
-            "imageData": "https://picsum.photos/seed/rukhi-456/320/220",
-            "imageName": "random-456.jpg"
+            "description": "WS Price: INR 260"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "ELECTRIC GLUE GUN RELIFE SC-81",
@@ -1704,11 +1704,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "990",
-            "description": "WS Price: INR 1050",
-            "imageData": "https://picsum.photos/seed/rukhi-457/320/220",
-            "imageName": "random-457.jpg"
+            "description": "WS Price: INR 1050"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "MOBILE FRAME REPAIR GLUE MECHANIC HUV-10",
@@ -1718,11 +1718,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "92",
-            "description": "WS Price: INR 100",
-            "imageData": "https://picsum.photos/seed/rukhi-458/320/220",
-            "imageName": "random-458.jpg"
+            "description": "WS Price: INR 100"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "CLEANING GEL 2UUL GL-03",
@@ -1732,11 +1732,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "345",
-            "description": "WS Price: INR 380",
-            "imageData": "https://picsum.photos/seed/rukhi-459/320/220",
-            "imageName": "random-459.jpg"
+            "description": "WS Price: INR 380"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "DISPOSABLE DESOLDERING FLUX SC-97 [15ML]",
@@ -1746,11 +1746,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "175",
-            "description": "WS Price: INR 180",
-            "imageData": "https://picsum.photos/seed/rukhi-460/320/220",
-            "imageName": "random-460.jpg"
+            "description": "WS Price: INR 180"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "G7 BLACK [30CC]",
@@ -1760,11 +1760,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "170",
-            "description": "WS Price: INR 180",
-            "imageData": "https://picsum.photos/seed/rukhi-461/320/220",
-            "imageName": "random-461.jpg"
+            "description": "WS Price: INR 180"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "G7 WHITE [30CC]",
@@ -1774,11 +1774,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "170",
-            "description": "WS Price: INR 180",
-            "imageData": "https://picsum.photos/seed/rukhi-462/320/220",
-            "imageName": "random-462.jpg"
+            "description": "WS Price: INR 180"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       }
     ]
   },
@@ -1793,11 +1793,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1530",
-            "description": "WS Price: INR 1550",
-            "imageData": "https://picsum.photos/seed/rukhi-302/320/220",
-            "imageName": "random-302.jpg"
+            "description": "WS Price: INR 1550"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "MOTHERBOARD FIXTURE YCS H-03",
@@ -1807,11 +1807,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "945",
-            "description": "WS Price: INR 980",
-            "imageData": "https://picsum.photos/seed/rukhi-303/320/220",
-            "imageName": "random-303.jpg"
+            "description": "WS Price: INR 980"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "MOTHERBOARD FIXTURE YCS H-03 PRO",
@@ -1821,11 +1821,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "965",
-            "description": "WS Price: INR 1000",
-            "imageData": "https://picsum.photos/seed/rukhi-304/320/220",
-            "imageName": "random-304.jpg"
+            "description": "WS Price: INR 1000"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "MOTHERBOARD FIXTURE YCS GHKJ",
@@ -1835,11 +1835,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "945",
-            "description": "WS Price: INR 980",
-            "imageData": "https://picsum.photos/seed/rukhi-305/320/220",
-            "imageName": "random-305.jpg"
+            "description": "WS Price: INR 980"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "MOTHERBOARD FIXTURE MECHANIC G-FIX PLUS",
@@ -1849,11 +1849,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "935",
-            "description": "WS Price: INR 950",
-            "imageData": "https://picsum.photos/seed/rukhi-306/320/220",
-            "imageName": "random-306.jpg"
+            "description": "WS Price: INR 950"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "DOUBLE BEARING VERSATILE FIXTURE MECHANIC ORI-MINI",
@@ -1863,11 +1863,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "680",
-            "description": "WS Price: INR 750",
-            "imageData": "https://picsum.photos/seed/rukhi-307/320/220",
-            "imageName": "random-307.jpg"
+            "description": "WS Price: INR 750"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "DUAL AXIS FIXTURE MECHANIC MR6 AIR",
@@ -1877,11 +1877,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "815",
-            "description": "WS Price: INR 850",
-            "imageData": "https://picsum.photos/seed/rukhi-308/320/220",
-            "imageName": "random-308.jpg"
+            "description": "WS Price: INR 850"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "PCB HOLDER KOOCU 071A",
@@ -1891,11 +1891,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "150",
-            "description": "WS Price: INR 160",
-            "imageData": "https://picsum.photos/seed/rukhi-309/320/220",
-            "imageName": "random-309.jpg"
+            "description": "WS Price: INR 160"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       }
     ]
   },
@@ -1910,11 +1910,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1070",
-            "description": "WS Price: INR 1100",
-            "imageData": "https://picsum.photos/seed/rukhi-319/320/220",
-            "imageName": "random-319.jpg"
+            "description": "WS Price: INR 1100"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "ELECTRICAL SCREWDRIVER KOOCU K04",
@@ -1924,11 +1924,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1260",
-            "description": "WS Price: INR 1300",
-            "imageData": "https://picsum.photos/seed/rukhi-320/320/220",
-            "imageName": "random-320.jpg"
+            "description": "WS Price: INR 1300"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "ELECTRICAL SCREWDRIVER KOOCU K07",
@@ -1938,11 +1938,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1630",
-            "description": "WS Price: INR 1650",
-            "imageData": "https://picsum.photos/seed/rukhi-321/320/220",
-            "imageName": "random-321.jpg"
+            "description": "WS Price: INR 1650"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "ELECTRICAL SCREWDRIVER MECHANIC X-DRIVE",
@@ -1952,11 +1952,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "890",
-            "description": "WS Price: INR 950",
-            "imageData": "https://picsum.photos/seed/rukhi-322/320/220",
-            "imageName": "random-322.jpg"
+            "description": "WS Price: INR 950"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "ELECTRICAL SCREWDRIVER MECHANIC ES-360",
@@ -1966,11 +1966,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "980",
-            "description": "WS Price: INR 1050",
-            "imageData": "https://picsum.photos/seed/rukhi-323/320/220",
-            "imageName": "random-323.jpg"
+            "description": "WS Price: INR 1050"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "CHIPSET POLISHER KOOCU EP-1",
@@ -1980,11 +1980,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "630",
-            "description": "WS Price: INR 650",
-            "imageData": "https://picsum.photos/seed/rukhi-324/320/220",
-            "imageName": "random-324.jpg"
+            "description": "WS Price: INR 650"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "IC POLISH PEN MECHANIC GDR2",
@@ -1994,11 +1994,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "695",
-            "description": "WS Price: INR 720",
-            "imageData": "https://picsum.photos/seed/rukhi-325/320/220",
-            "imageName": "random-325.jpg"
+            "description": "WS Price: INR 720"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       }
     ]
   },
@@ -2013,11 +2013,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "66",
-            "description": "WS Price: INR 70",
-            "imageData": "https://picsum.photos/seed/rukhi-425/320/220",
-            "imageName": "random-425.jpg"
+            "description": "WS Price: INR 70"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "MR GLUE REPAIR GLUE BLACK [25ML] DA-41 BLACK",
@@ -2027,11 +2027,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "74",
-            "description": "WS Price: INR 78",
-            "imageData": "https://picsum.photos/seed/rukhi-426/320/220",
-            "imageName": "random-426.jpg"
+            "description": "WS Price: INR 78"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "MR GLUE REPAIR GLUE WHITE [25ML] DA-42 WHITE",
@@ -2041,11 +2041,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "74",
-            "description": "WS Price: INR 78",
-            "imageData": "https://picsum.photos/seed/rukhi-427/320/220",
-            "imageName": "random-427.jpg"
+            "description": "WS Price: INR 78"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "PASTE TRANSPARENT [60ML] KOOCU X-50",
@@ -2055,11 +2055,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "62",
-            "description": "WS Price: INR 65",
-            "imageData": "https://picsum.photos/seed/rukhi-428/320/220",
-            "imageName": "random-428.jpg"
+            "description": "WS Price: INR 65"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "PASTE BLACK [60ML] KOOCU X-51",
@@ -2069,11 +2069,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "62",
-            "description": "WS Price: INR 65",
-            "imageData": "https://picsum.photos/seed/rukhi-429/320/220",
-            "imageName": "random-429.jpg"
+            "description": "WS Price: INR 65"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "PASTE TRANSPARENT [60ML] ONE-STOP OS-20",
@@ -2083,11 +2083,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "35",
-            "description": "WS Price: INR 40",
-            "imageData": "https://picsum.photos/seed/rukhi-430/320/220",
-            "imageName": "random-430.jpg"
+            "description": "WS Price: INR 40"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "ELECTRONIC GLUE 50ML FALCON Q2",
@@ -2097,11 +2097,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "35",
-            "description": "WS Price: INR 40",
-            "imageData": "https://picsum.photos/seed/rukhi-431/320/220",
-            "imageName": "random-431.jpg"
+            "description": "WS Price: INR 40"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "FLUX PASTE MASTERGO MG-223/100g",
@@ -2111,11 +2111,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "220",
-            "description": "WS Price: INR 225",
-            "imageData": "https://picsum.photos/seed/rukhi-432/320/220",
-            "imageName": "random-432.jpg"
+            "description": "WS Price: INR 225"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "FLUX PASTE MECHANIC UV-559",
@@ -2125,11 +2125,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "78",
-            "description": "WS Price: INR 82",
-            "imageData": "https://picsum.photos/seed/rukhi-433/320/220",
-            "imageName": "random-433.jpg"
+            "description": "WS Price: INR 82"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       }
     ]
   },
@@ -2144,11 +2144,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "190",
-            "description": "WS Price: INR 200",
-            "imageData": "https://picsum.photos/seed/rukhi-386/320/220",
-            "imageName": "random-386.jpg"
+            "description": "WS Price: INR 200"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "BLADE SET MECHANIC MC-008",
@@ -2158,11 +2158,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "385",
-            "description": "WS Price: INR 400",
-            "imageData": "https://picsum.photos/seed/rukhi-387/320/220",
-            "imageName": "random-387.jpg"
+            "description": "WS Price: INR 400"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "PRECISION KNIFE WLXY WLXY",
@@ -2172,11 +2172,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "36",
-            "description": "WS Price: INR 40",
-            "imageData": "https://picsum.photos/seed/rukhi-388/320/220",
-            "imageName": "random-388.jpg"
+            "description": "WS Price: INR 40"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "CPU DEGUMMING CROWBAR RELIFE RL-049B",
@@ -2186,11 +2186,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "70",
-            "description": "WS Price: INR 75",
-            "imageData": "https://picsum.photos/seed/rukhi-389/320/220",
-            "imageName": "random-389.jpg"
+            "description": "WS Price: INR 75"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "CPU TOOLS KOOCU SW-103",
@@ -2200,11 +2200,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "62",
-            "description": "WS Price: INR 65",
-            "imageData": "https://picsum.photos/seed/rukhi-390/320/220",
-            "imageName": "random-390.jpg"
+            "description": "WS Price: INR 65"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "ROLL STOP SOLDER BLADE SET 2UUL DA-19",
@@ -2214,11 +2214,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "315",
-            "description": "WS Price: INR 330",
-            "imageData": "https://picsum.photos/seed/rukhi-391/320/220",
-            "imageName": "random-391.jpg"
+            "description": "WS Price: INR 330"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "GLUE FAST REMOVAL BLADES [5PCS/BOX] 2UUL DA-28",
@@ -2228,11 +2228,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "140",
-            "description": "WS Price: INR 150",
-            "imageData": "https://picsum.photos/seed/rukhi-392/320/220",
-            "imageName": "random-392.jpg"
+            "description": "WS Price: INR 150"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       }
     ]
   },
@@ -2247,11 +2247,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "562",
-            "description": "WS Price: INR 590",
-            "imageData": "https://picsum.photos/seed/rukhi-121/320/220",
-            "imageName": "random-121.jpg"
+            "description": "WS Price: INR 590"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "OCA Electric Glue Remover MECHANIC IR-14",
@@ -2261,11 +2261,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "725",
-            "description": "WS Price: INR 750",
-            "imageData": "https://picsum.photos/seed/rukhi-122/320/220",
-            "imageName": "random-122.jpg"
+            "description": "WS Price: INR 750"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "OCA Electric Glue Remover MECHANIC IR-16",
@@ -2275,11 +2275,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "699",
-            "description": "WS Price: INR 750",
-            "imageData": "https://picsum.photos/seed/rukhi-123/320/220",
-            "imageName": "random-123.jpg"
+            "description": "WS Price: INR 750"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "Electric Glue Remover MASTERGO MG-R01",
@@ -2289,11 +2289,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "645",
-            "description": "WS Price: INR 660",
-            "imageData": "https://picsum.photos/seed/rukhi-124/320/220",
-            "imageName": "random-124.jpg"
+            "description": "WS Price: INR 660"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "GLUE REMOVER KOOCU CJ15+ PRO",
@@ -2303,11 +2303,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "580",
-            "description": "WS Price: INR 650",
-            "imageData": "https://picsum.photos/seed/rukhi-125/320/220",
-            "imageName": "random-125.jpg"
+            "description": "WS Price: INR 650"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "GLUE REMOVER RELIFE RL-056E",
@@ -2317,11 +2317,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "835",
-            "description": "WS Price: INR 890",
-            "imageData": "https://picsum.photos/seed/rukhi-126/320/220",
-            "imageName": "random-126.jpg"
+            "description": "WS Price: INR 890"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "GLUE REMOVER RELIFE RL-056D",
@@ -2331,11 +2331,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "945",
-            "description": "WS Price: INR 990",
-            "imageData": "https://picsum.photos/seed/rukhi-127/320/220",
-            "imageName": "random-127.jpg"
+            "description": "WS Price: INR 990"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "ELECTRIC GLUE REMOVER TORNADO ONE",
@@ -2345,11 +2345,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "2350",
-            "description": "WS Price: INR 2400",
-            "imageData": "https://picsum.photos/seed/rukhi-128/320/220",
-            "imageName": "random-128.jpg"
+            "description": "WS Price: INR 2400"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "FAULT DETECTOR LANRUI V9 [450ML]",
@@ -2359,11 +2359,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "250",
-            "description": "WS Price: INR 260",
-            "imageData": "https://picsum.photos/seed/rukhi-463/320/220",
-            "imageName": "random-463.jpg"
+            "description": "WS Price: INR 260"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "SC-840",
@@ -2373,11 +2373,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "240",
-            "description": "WS Price: INR 250",
-            "imageData": "https://picsum.photos/seed/rukhi-464/320/220",
-            "imageName": "random-464.jpg"
+            "description": "WS Price: INR 250"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "SC-735",
@@ -2387,11 +2387,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "265",
-            "description": "WS Price: INR 275",
-            "imageData": "https://picsum.photos/seed/rukhi-465/320/220",
-            "imageName": "random-465.jpg"
+            "description": "WS Price: INR 275"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "SC-325",
@@ -2401,11 +2401,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "240",
-            "description": "WS Price: INR 250",
-            "imageData": "https://picsum.photos/seed/rukhi-466/320/220",
-            "imageName": "random-466.jpg"
+            "description": "WS Price: INR 250"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "SC-118",
@@ -2415,11 +2415,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "150",
-            "description": "WS Price: INR 160",
-            "imageData": "https://picsum.photos/seed/rukhi-467/320/220",
-            "imageName": "random-467.jpg"
+            "description": "WS Price: INR 160"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "UNIVERSAL FRAME REMOVER RELIFE RL-518",
@@ -2429,11 +2429,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "210",
-            "description": "WS Price: INR 220",
-            "imageData": "https://picsum.photos/seed/rukhi-468/320/220",
-            "imageName": "random-468.jpg"
+            "description": "WS Price: INR 220"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "FRAME REMOVER RELIFE RL-518A",
@@ -2443,11 +2443,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "210",
-            "description": "WS Price: INR 220",
-            "imageData": "https://picsum.photos/seed/rukhi-469/320/220",
-            "imageName": "random-469.jpg"
+            "description": "WS Price: INR 220"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "PCB CLEANER MECHANIC 850 [850g]",
@@ -2457,11 +2457,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "320",
-            "description": "WS Price: INR 350",
-            "imageData": "https://picsum.photos/seed/rukhi-470/320/220",
-            "imageName": "random-470.jpg"
+            "description": "WS Price: INR 350"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "PCB CLEANER MECHANIC 850-PRO [1000g]",
@@ -2471,11 +2471,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "350",
-            "description": "WS Price: INR 380",
-            "imageData": "https://picsum.photos/seed/rukhi-471/320/220",
-            "imageName": "random-471.jpg"
+            "description": "WS Price: INR 380"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       }
     ]
   },
@@ -2490,11 +2490,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "57",
-            "description": "WS Price: INR 65",
-            "imageData": "https://picsum.photos/seed/rukhi-236/320/220",
-            "imageName": "random-236.jpg"
+            "description": "WS Price: INR 65"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "TIP REFRESHER MECHANIC N3",
@@ -2504,11 +2504,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "65",
-            "description": "WS Price: INR 70",
-            "imageData": "https://picsum.photos/seed/rukhi-237/320/220",
-            "imageName": "random-237.jpg"
+            "description": "WS Price: INR 70"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "TIP REFRESHER MECHANIC S3",
@@ -2518,11 +2518,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "75",
-            "description": "WS Price: INR 80",
-            "imageData": "https://picsum.photos/seed/rukhi-238/320/220",
-            "imageName": "random-238.jpg"
+            "description": "WS Price: INR 80"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "BIT CLEANER FOAM PAD FOAM PAD",
@@ -2532,11 +2532,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "10",
-            "description": "WS Price: INR 15",
-            "imageData": "https://picsum.photos/seed/rukhi-239/320/220",
-            "imageName": "random-239.jpg"
+            "description": "WS Price: INR 15"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "FULL SIZE SOLDERING TIP CLEANING DOCK FD30 MAX",
@@ -2546,11 +2546,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "225",
-            "description": "WS Price: INR 250",
-            "imageData": "https://picsum.photos/seed/rukhi-240/320/220",
-            "imageName": "random-240.jpg"
+            "description": "WS Price: INR 250"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "SCREW EXTRACTOR DRILL SET 2UUL SD-90",
@@ -2560,11 +2560,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "250",
-            "description": "WS Price: INR 260",
-            "imageData": "https://picsum.photos/seed/rukhi-241/320/220",
-            "imageName": "random-241.jpg"
+            "description": "WS Price: INR 260"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "SCREW KILLER SET JTX SK-1",
@@ -2574,11 +2574,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "158",
-            "description": "WS Price: INR 180",
-            "imageData": "https://picsum.photos/seed/rukhi-242/320/220",
-            "imageName": "random-242.jpg"
+            "description": "WS Price: INR 180"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "REPLACEMENT TIPS FOR POLISH DRILL PEN 10PCS/SET 2UUL DA-82",
@@ -2588,11 +2588,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "90",
-            "description": "WS Price: INR 100",
-            "imageData": "https://picsum.photos/seed/rukhi-243/320/220",
-            "imageName": "random-243.jpg"
+            "description": "WS Price: INR 100"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "GRINDING HEAD SET RELIFE RL-068A",
@@ -2602,11 +2602,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "190",
-            "description": "WS Price: INR 200",
-            "imageData": "https://picsum.photos/seed/rukhi-244/320/220",
-            "imageName": "random-244.jpg"
+            "description": "WS Price: INR 200"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       }
     ]
   },
@@ -2621,11 +2621,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "245",
-            "description": "WS Price: INR 260",
-            "imageData": "https://picsum.photos/seed/rukhi-402/320/220",
-            "imageName": "random-402.jpg"
+            "description": "WS Price: INR 260"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "DA-17",
@@ -2635,11 +2635,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "245",
-            "description": "WS Price: INR 260",
-            "imageData": "https://picsum.photos/seed/rukhi-403/320/220",
-            "imageName": "random-403.jpg"
+            "description": "WS Price: INR 260"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "Eagle Blade 5pcs Set EAGLE BLADE [5PCS/BOX]",
@@ -2649,11 +2649,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "13",
-            "description": "WS Price: INR 15",
-            "imageData": "https://picsum.photos/seed/rukhi-404/320/220",
-            "imageName": "random-404.jpg"
+            "description": "WS Price: INR 15"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "REPAIR BLADE [5PCS-SET] 5 IN 1",
@@ -2663,11 +2663,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "290",
-            "description": "WS Price: INR 300",
-            "imageData": "https://picsum.photos/seed/rukhi-405/320/220",
-            "imageName": "random-405.jpg"
+            "description": "WS Price: INR 300"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "MICRO-FIX HOOK BLADE 2UUL DA-12",
@@ -2677,11 +2677,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "240",
-            "description": "WS Price: INR 280",
-            "imageData": "https://picsum.photos/seed/rukhi-406/320/220",
-            "imageName": "random-406.jpg"
+            "description": "WS Price: INR 280"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "PHANTOM LAYERED BLADE MIJING BLADE",
@@ -2691,11 +2691,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "220",
-            "description": "WS Price: INR 250",
-            "imageData": "https://picsum.photos/seed/rukhi-407/320/220",
-            "imageName": "random-407.jpg"
+            "description": "WS Price: INR 250"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       }
     ]
   },
@@ -2710,11 +2710,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "45",
-            "description": "WS Price: INR 60",
-            "imageData": "https://picsum.photos/seed/rukhi-480/320/220",
-            "imageName": "random-480.jpg"
+            "description": "WS Price: INR 60"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "7 INCH ANTI-SLIP HEAT RESISTANCE SILICONE PAD 7 INCH",
@@ -2724,11 +2724,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "77",
-            "description": "WS Price: INR 90",
-            "imageData": "https://picsum.photos/seed/rukhi-481/320/220",
-            "imageName": "random-481.jpg"
+            "description": "WS Price: INR 90"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "MAGNETIC PROJECT MAT [300*250MM] 2UUL ST-92",
@@ -2738,11 +2738,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "105",
-            "description": "WS Price: INR 120",
-            "imageData": "https://picsum.photos/seed/rukhi-482/320/220",
-            "imageName": "random-482.jpg"
+            "description": "WS Price: INR 120"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "UNIVERSAL CURVED SCREEN FITTING PAD 3K",
@@ -2752,11 +2752,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "425",
-            "description": "WS Price: INR 450",
-            "imageData": "https://picsum.photos/seed/rukhi-483/320/220",
-            "imageName": "random-483.jpg"
+            "description": "WS Price: INR 450"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "SOFT RESISTANCE MAGIC SILICONE PAD IQ-15",
@@ -2766,11 +2766,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "425",
-            "description": "WS Price: INR 450",
-            "imageData": "https://picsum.photos/seed/rukhi-484/320/220",
-            "imageName": "random-484.jpg"
+            "description": "WS Price: INR 450"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "SCREEN STAND MINI 2UUL BH-07",
@@ -2780,11 +2780,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "125",
-            "description": "WS Price: INR 140",
-            "imageData": "https://picsum.photos/seed/rukhi-485/320/220",
-            "imageName": "random-485.jpg"
+            "description": "WS Price: INR 140"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "METAL BASE MAT TE-711",
@@ -2794,11 +2794,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1210",
-            "description": "WS Price: INR 1350",
-            "imageData": "https://picsum.photos/seed/rukhi-486/320/220",
-            "imageName": "random-486.jpg"
+            "description": "WS Price: INR 1350"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "HIGH-TEMPERATURE RESISTANT SILICONE MAT RF4 P015",
@@ -2808,11 +2808,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "625",
-            "description": "WS Price: INR 650",
-            "imageData": "https://picsum.photos/seed/rukhi-487/320/220",
-            "imageName": "random-487.jpg"
+            "description": "WS Price: INR 650"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "HEAT RESISTANCE THICK PAD 2UUL ST-86",
@@ -2822,11 +2822,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "770",
-            "description": "WS Price: INR 800",
-            "imageData": "https://picsum.photos/seed/rukhi-488/320/220",
-            "imageName": "random-488.jpg"
+            "description": "WS Price: INR 800"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       }
     ]
   },
@@ -2841,11 +2841,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1870",
-            "description": "WS Price: INR 1950",
-            "imageData": "https://picsum.photos/seed/rukhi-57/320/220",
-            "imageName": "random-57.jpg"
+            "description": "WS Price: INR 1950"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "HEATING MACHINE SUNSHINE LS2",
@@ -2855,11 +2855,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1450",
-            "description": "WS Price: INR 1550",
-            "imageData": "https://picsum.photos/seed/rukhi-58/320/220",
-            "imageName": "random-58.jpg"
+            "description": "WS Price: INR 1550"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "CNC CONSTANT TEMPERATURE HEATING PLATFORM HT-18",
@@ -2869,11 +2869,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1180",
-            "description": "WS Price: INR 1250",
-            "imageData": "https://picsum.photos/seed/rukhi-59/320/220",
-            "imageName": "random-59.jpg"
+            "description": "WS Price: INR 1250"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       }
     ]
   },
@@ -2888,11 +2888,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "28",
-            "description": "WS Price: INR 35",
-            "imageData": "https://picsum.photos/seed/rukhi-443/320/220",
-            "imageName": "random-443.jpg"
+            "description": "WS Price: INR 35"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "LQ WIRE CONDUCTIVE SILVER PASTE 2UUL SC-95",
@@ -2902,11 +2902,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "389",
-            "description": "WS Price: INR 430",
-            "imageData": "https://picsum.photos/seed/rukhi-444/320/220",
-            "imageName": "random-444.jpg"
+            "description": "WS Price: INR 430"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "SUPERDRY UV CURABLE SOLDER MASK [10CC] 2UUL SC-55",
@@ -2916,11 +2916,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "90",
-            "description": "WS Price: INR 95",
-            "imageData": "https://picsum.photos/seed/rukhi-445/320/220",
-            "imageName": "random-445.jpg"
+            "description": "WS Price: INR 95"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "UV SOLDER MASK INK SU-3 [GREEN]",
@@ -2930,11 +2930,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "56",
-            "description": "WS Price: INR 60",
-            "imageData": "https://picsum.photos/seed/rukhi-446/320/220",
-            "imageName": "random-446.jpg"
+            "description": "WS Price: INR 60"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "UV CURING SOLDER MASK MECHANIC SU-7",
@@ -2944,11 +2944,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "62",
-            "description": "WS Price: INR 65",
-            "imageData": "https://picsum.photos/seed/rukhi-447/320/220",
-            "imageName": "random-447.jpg"
+            "description": "WS Price: INR 65"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "[10cc] MECHANIC LVH-900 [GREEN]",
@@ -2958,11 +2958,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "47",
-            "description": "WS Price: INR 55",
-            "imageData": "https://picsum.photos/seed/rukhi-448/320/220",
-            "imageName": "random-448.jpg"
+            "description": "WS Price: INR 55"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "QUICK DRY BLACK SOLDER MASK RELIFE RL-UVH902B",
@@ -2972,11 +2972,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "60",
-            "description": "WS Price: INR 65",
-            "imageData": "https://picsum.photos/seed/rukhi-449/320/220",
-            "imageName": "random-449.jpg"
+            "description": "WS Price: INR 65"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "UV GLUE TO REPAIR BROKEN FRAME RELIFE RL-035D",
@@ -2986,11 +2986,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "192",
-            "description": "WS Price: INR 200",
-            "imageData": "https://picsum.photos/seed/rukhi-450/320/220",
-            "imageName": "random-450.jpg"
+            "description": "WS Price: INR 200"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "UV FLUX PASTE RELIFE RL-420S",
@@ -3000,11 +3000,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "68",
-            "description": "WS Price: INR 75",
-            "imageData": "https://picsum.photos/seed/rukhi-451/320/220",
-            "imageName": "random-451.jpg"
+            "description": "WS Price: INR 75"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "IM HALOGEN FREE FLUX PASTE RELIFE RL-422S",
@@ -3014,11 +3014,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "110",
-            "description": "WS Price: INR 120",
-            "imageData": "https://picsum.photos/seed/rukhi-452/320/220",
-            "imageName": "random-452.jpg"
+            "description": "WS Price: INR 120"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       }
     ]
   },
@@ -3033,11 +3033,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "5200",
-            "description": "WS Price: INR 5400",
-            "imageData": "https://picsum.photos/seed/rukhi-46/320/220",
-            "imageName": "random-46.jpg"
+            "description": "WS Price: INR 5400"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "HD MICROSCOPE CAMERA MECHANIC MOS-4K",
@@ -3047,11 +3047,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "5900",
-            "description": "WS Price: INR 6200",
-            "imageData": "https://picsum.photos/seed/rukhi-47/320/220",
-            "imageName": "random-47.jpg"
+            "description": "WS Price: INR 6200"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "THERMAL IMAGING CAMERA MECHANIC I-SCOUT",
@@ -3061,11 +3061,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "15650",
-            "description": "WS Price: INR 15800",
-            "imageData": "https://picsum.photos/seed/rukhi-48/320/220",
-            "imageName": "random-48.jpg"
+            "description": "WS Price: INR 15800"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "INFRARED THERMAL IMAGING CAMERA MA-ANT RC-5",
@@ -3075,11 +3075,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "15500",
-            "description": "WS Price: INR 15800",
-            "imageData": "https://picsum.photos/seed/rukhi-49/320/220",
-            "imageName": "random-49.jpg"
+            "description": "WS Price: INR 15800"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       }
     ]
   },
@@ -3094,11 +3094,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "6500",
-            "description": "WS Price: INR 6800",
-            "imageData": "https://picsum.photos/seed/rukhi-1/320/220",
-            "imageName": "random-1.jpg"
+            "description": "WS Price: INR 6800"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "VACUUM PUMP [4L] VACUUM [4L]",
@@ -3108,11 +3108,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "7700",
-            "description": "WS Price: INR 7800",
-            "imageData": "https://picsum.photos/seed/rukhi-2/320/220",
-            "imageName": "random-2.jpg"
+            "description": "WS Price: INR 7800"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "VACUUM & COMPRESSOR [2 IN 1] V6",
@@ -3122,11 +3122,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "11787",
-            "description": "WS Price: INR 12349",
-            "imageData": "https://picsum.photos/seed/rukhi-3/320/220",
-            "imageName": "random-3.jpg"
+            "description": "WS Price: INR 12349"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "LAMINATING & DEFOAMING MACHINE MECHANIC GAN-01 FENIX",
@@ -3136,11 +3136,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "23781",
-            "description": "WS Price: INR 24915",
-            "imageData": "https://picsum.photos/seed/rukhi-4/320/220",
-            "imageName": "random-4.jpg"
+            "description": "WS Price: INR 24915"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "+ compressor",
@@ -3150,11 +3150,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "35570",
-            "description": "WS Price: INR 37200",
-            "imageData": "https://picsum.photos/seed/rukhi-5/320/220",
-            "imageName": "random-5.jpg"
+            "description": "WS Price: INR 37200"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "Item 6",
@@ -3164,11 +3164,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "71600",
-            "description": "WS Price: INR 75500",
-            "imageData": "https://picsum.photos/seed/rukhi-6/320/220",
-            "imageName": "random-6.jpg"
+            "description": "WS Price: INR 75500"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       }
     ]
   },
@@ -3183,11 +3183,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "20",
-            "description": "WS Price: INR 25",
-            "imageData": "https://picsum.photos/seed/rukhi-139/320/220",
-            "imageName": "random-139.jpg"
+            "description": "WS Price: INR 25"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "OPENER TE-025",
@@ -3197,11 +3197,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "25",
-            "description": "WS Price: INR 30",
-            "imageData": "https://picsum.photos/seed/rukhi-140/320/220",
-            "imageName": "random-140.jpg"
+            "description": "WS Price: INR 30"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "MULTIFUNCTIONAL DISASSEMBLY TOOL SET TD2-PRO",
@@ -3211,11 +3211,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "210",
-            "description": "WS Price: INR 220",
-            "imageData": "https://picsum.photos/seed/rukhi-141/320/220",
-            "imageName": "random-141.jpg"
+            "description": "WS Price: INR 220"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "CERAMIC SOLDER SCRAPPER RELIFE TK-1",
@@ -3225,11 +3225,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "170",
-            "description": "WS Price: INR 175",
-            "imageData": "https://picsum.photos/seed/rukhi-142/320/220",
-            "imageName": "random-142.jpg"
+            "description": "WS Price: INR 175"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "METAL OPENING TOOLS RL-050",
@@ -3239,11 +3239,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "25",
-            "description": "WS Price: INR 30",
-            "imageData": "https://picsum.photos/seed/rukhi-143/320/220",
-            "imageName": "random-143.jpg"
+            "description": "WS Price: INR 30"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "YELLOW OPENER YELLOW",
@@ -3253,11 +3253,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "25",
-            "description": "WS Price: INR 30",
-            "imageData": "https://picsum.photos/seed/rukhi-144/320/220",
-            "imageName": "random-144.jpg"
+            "description": "WS Price: INR 30"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       }
     ]
   },
@@ -3272,11 +3272,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "13350",
-            "description": "WS Price: INR 13800",
-            "imageData": "https://picsum.photos/seed/rukhi-22/320/220",
-            "imageName": "random-22.jpg"
+            "description": "WS Price: INR 13800"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "Trinocular Stereo Microscope MECHANIC (WITH LENS) MC-67T-B11",
@@ -3286,11 +3286,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "67",
-            "description": "WS Price: INR 11",
-            "imageData": "https://picsum.photos/seed/rukhi-23/320/220",
-            "imageName": "random-23.jpg"
+            "description": "WS Price: INR 11"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "[67X ZOOM]",
@@ -3300,11 +3300,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "19390",
-            "description": "WS Price: INR 19500",
-            "imageData": "https://picsum.photos/seed/rukhi-24/320/220",
-            "imageName": "random-24.jpg"
+            "description": "WS Price: INR 19500"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "Trinocular Stereo Microscope MECHANIC (WITH LENS) SUPER X-B11",
@@ -3314,11 +3314,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "32080",
-            "description": "WS Price: INR 32200",
-            "imageData": "https://picsum.photos/seed/rukhi-25/320/220",
-            "imageName": "random-25.jpg"
+            "description": "WS Price: INR 32200"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "MECHANIC (WITH LENS) SUPER X PRO B11",
@@ -3328,11 +3328,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "29550",
-            "description": "WS Price: INR 29700",
-            "imageData": "https://picsum.photos/seed/rukhi-26/320/220",
-            "imageName": "random-26.jpg"
+            "description": "WS Price: INR 29700"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "Trinocular Stereo Microscope MECHANIC (WITH LENS) MOS-300",
@@ -3342,11 +3342,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "15250",
-            "description": "WS Price: INR 15500",
-            "imageData": "https://picsum.photos/seed/rukhi-27/320/220",
-            "imageName": "random-27.jpg"
+            "description": "WS Price: INR 15500"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "Trinocular Stereo Microscope MECHANIC (WITH LENS) D-75T-B11",
@@ -3356,11 +3356,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "13700",
-            "description": "WS Price: INR 14200",
-            "imageData": "https://picsum.photos/seed/rukhi-28/320/220",
-            "imageName": "random-28.jpg"
+            "description": "WS Price: INR 14200"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "MECHANIC (WITH LENS) ROBOT 7060T-TG",
@@ -3370,11 +3370,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "17350",
-            "description": "WS Price: INR 17800",
-            "imageData": "https://picsum.photos/seed/rukhi-29/320/220",
-            "imageName": "random-29.jpg"
+            "description": "WS Price: INR 17800"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       }
     ]
   },
@@ -3389,11 +3389,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "405",
-            "description": "WS Price: INR 450",
-            "imageData": "https://picsum.photos/seed/rukhi-38/320/220",
-            "imageName": "random-38.jpg"
+            "description": "WS Price: INR 450"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "MICROSCOPE ARMS B-TREND BT-922",
@@ -3403,11 +3403,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1100",
-            "description": "WS Price: INR 1300",
-            "imageData": "https://picsum.photos/seed/rukhi-39/320/220",
-            "imageName": "random-39.jpg"
+            "description": "WS Price: INR 1300"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "MICROSCOPE ARMS MECHANIC M-3",
@@ -3417,11 +3417,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "2710",
-            "description": "WS Price: INR 2750",
-            "imageData": "https://picsum.photos/seed/rukhi-40/320/220",
-            "imageName": "random-40.jpg"
+            "description": "WS Price: INR 2750"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "ADJUSTABLE LED MICROSCOPE LAMP (BLACK) 2UUL MS-98",
@@ -3431,11 +3431,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "690",
-            "description": "WS Price: INR 750",
-            "imageData": "https://picsum.photos/seed/rukhi-41/320/220",
-            "imageName": "random-41.jpg"
+            "description": "WS Price: INR 750"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "ADJUSTABLE POLARIZED MICROSCOPE LAMP MS-97",
@@ -3445,11 +3445,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "850",
-            "description": "WS Price: INR 880",
-            "imageData": "https://picsum.photos/seed/rukhi-42/320/220",
-            "imageName": "random-42.jpg"
+            "description": "WS Price: INR 880"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "ADJUSTABLE LED MICROSCOPE LIGHT RL-033E",
@@ -3459,11 +3459,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "505",
-            "description": "WS Price: INR 550",
-            "imageData": "https://picsum.photos/seed/rukhi-43/320/220",
-            "imageName": "random-43.jpg"
+            "description": "WS Price: INR 550"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "MICROSCOPE DUST PROOF EYE-CUP RELIFE M-26 PRO MAX",
@@ -3473,11 +3473,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "125",
-            "description": "WS Price: INR 135",
-            "imageData": "https://picsum.photos/seed/rukhi-44/320/220",
-            "imageName": "random-44.jpg"
+            "description": "WS Price: INR 135"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "MICROSCOPE DUST PROOF EYE-CAP 2UUL MS-81",
@@ -3487,11 +3487,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "160",
-            "description": "WS Price: INR 170",
-            "imageData": "https://picsum.photos/seed/rukhi-45/320/220",
-            "imageName": "random-45.jpg"
+            "description": "WS Price: INR 170"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       }
     ]
   },
@@ -3506,11 +3506,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "59",
-            "description": "WS Price: INR 65",
-            "imageData": "https://picsum.photos/seed/rukhi-472/320/220",
-            "imageName": "random-472.jpg"
+            "description": "WS Price: INR 65"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "RED MAT 8 MM",
@@ -3520,11 +3520,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "115",
-            "description": "WS Price: INR 120",
-            "imageData": "https://picsum.photos/seed/rukhi-473/320/220",
-            "imageName": "random-473.jpg"
+            "description": "WS Price: INR 120"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "MICROSCOPE MAT RELIFE RL-004M-B11",
@@ -3534,11 +3534,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "375",
-            "description": "WS Price: INR 450",
-            "imageData": "https://picsum.photos/seed/rukhi-474/320/220",
-            "imageName": "random-474.jpg"
+            "description": "WS Price: INR 450"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "MICROSCOPE MAT RELIFE RL-004A",
@@ -3548,11 +3548,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "260",
-            "description": "WS Price: INR 280",
-            "imageData": "https://picsum.photos/seed/rukhi-475/320/220",
-            "imageName": "random-475.jpg"
+            "description": "WS Price: INR 280"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "BIG MAT TE-501",
@@ -3562,11 +3562,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "235",
-            "description": "WS Price: INR 250",
-            "imageData": "https://picsum.photos/seed/rukhi-476/320/220",
-            "imageName": "random-476.jpg"
+            "description": "WS Price: INR 250"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "MAT MAT",
@@ -3576,11 +3576,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "105",
-            "description": "WS Price: INR 115",
-            "imageData": "https://picsum.photos/seed/rukhi-477/320/220",
-            "imageName": "random-477.jpg"
+            "description": "WS Price: INR 115"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "INSULATION MAT YCS ARC PAD",
@@ -3590,11 +3590,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "225",
-            "description": "WS Price: INR 250",
-            "imageData": "https://picsum.photos/seed/rukhi-478/320/220",
-            "imageName": "random-478.jpg"
+            "description": "WS Price: INR 250"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "MAGGRID PAD CHIP SILICONE BUFFER SOLDERING PAD BH-15",
@@ -3604,11 +3604,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "260",
-            "description": "WS Price: INR 280",
-            "imageData": "https://picsum.photos/seed/rukhi-479/320/220",
-            "imageName": "random-479.jpg"
+            "description": "WS Price: INR 280"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       }
     ]
   },
@@ -3623,11 +3623,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "950",
-            "description": "WS Price: INR 980",
-            "imageData": "https://picsum.photos/seed/rukhi-326/320/220",
-            "imageName": "random-326.jpg"
+            "description": "WS Price: INR 980"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "IC POLISH PEN MECHANIC IRX8",
@@ -3637,11 +3637,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "680",
-            "description": "WS Price: INR 720",
-            "imageData": "https://picsum.photos/seed/rukhi-327/320/220",
-            "imageName": "random-327.jpg"
+            "description": "WS Price: INR 720"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "ELECTRIC SANDING PEN MECHANIC PWR",
@@ -3651,11 +3651,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1050",
-            "description": "WS Price: INR 1100",
-            "imageData": "https://picsum.photos/seed/rukhi-328/320/220",
-            "imageName": "random-328.jpg"
+            "description": "WS Price: INR 1100"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "CHARGEABLE POLISH DRILL PEN DA-81",
@@ -3665,11 +3665,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1270",
-            "description": "WS Price: INR 1300",
-            "imageData": "https://picsum.photos/seed/rukhi-329/320/220",
-            "imageName": "random-329.jpg"
+            "description": "WS Price: INR 1300"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "MINI GRINDER 2UUL DA-86",
@@ -3679,11 +3679,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "730",
-            "description": "WS Price: INR 750",
-            "imageData": "https://picsum.photos/seed/rukhi-330/320/220",
-            "imageName": "random-330.jpg"
+            "description": "WS Price: INR 750"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       }
     ]
   },
@@ -3698,11 +3698,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "640",
-            "description": "WS Price: INR 680",
-            "imageData": "https://picsum.photos/seed/rukhi-183/320/220",
-            "imageName": "random-183.jpg"
+            "description": "WS Price: INR 680"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "multimeter [English broadcast] MECHANIC V90E",
@@ -3712,11 +3712,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "970",
-            "description": "WS Price: INR 1050",
-            "imageData": "https://picsum.photos/seed/rukhi-184/320/220",
-            "imageName": "random-184.jpg"
+            "description": "WS Price: INR 1050"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "DIGITAL MULTIMETER MECHANIC SIV-120",
@@ -3726,11 +3726,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "950",
-            "description": "WS Price: INR 980",
-            "imageData": "https://picsum.photos/seed/rukhi-185/320/220",
-            "imageName": "random-185.jpg"
+            "description": "WS Price: INR 980"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "DIGITAL MULTIMETER MASTERGO MG-120",
@@ -3740,11 +3740,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "965",
-            "description": "WS Price: INR 1050",
-            "imageData": "https://picsum.photos/seed/rukhi-186/320/220",
-            "imageName": "random-186.jpg"
+            "description": "WS Price: INR 1050"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "DIGITAL MULTIMETER SUNSHINE DT-9205E",
@@ -3754,11 +3754,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "430",
-            "description": "WS Price: INR 450",
-            "imageData": "https://picsum.photos/seed/rukhi-187/320/220",
-            "imageName": "random-187.jpg"
+            "description": "WS Price: INR 450"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "DIGITAL MULTIMETER SUNSHINE DT-19N",
@@ -3768,11 +3768,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "995",
-            "description": "WS Price: INR 1030",
-            "imageData": "https://picsum.photos/seed/rukhi-188/320/220",
-            "imageName": "random-188.jpg"
+            "description": "WS Price: INR 1030"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "DIGITAL MULTIMETER SUNSHINE DT-17N",
@@ -3782,11 +3782,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1390",
-            "description": "WS Price: INR 1450",
-            "imageData": "https://picsum.photos/seed/rukhi-189/320/220",
-            "imageName": "random-189.jpg"
+            "description": "WS Price: INR 1450"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "DIGITAL MULTIMETER YELLOW DT-830",
@@ -3796,11 +3796,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "115",
-            "description": "WS Price: INR 120",
-            "imageData": "https://picsum.photos/seed/rukhi-190/320/220",
-            "imageName": "random-190.jpg"
+            "description": "WS Price: INR 120"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       }
     ]
   },
@@ -3815,11 +3815,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "56",
-            "description": "WS Price: INR 60",
-            "imageData": "https://picsum.photos/seed/rukhi-253/320/220",
-            "imageName": "random-253.jpg"
+            "description": "WS Price: INR 60"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "NANO CLEANING SPONGE KOOCU KC-699",
@@ -3829,11 +3829,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "55",
-            "description": "WS Price: INR 60",
-            "imageData": "https://picsum.photos/seed/rukhi-254/320/220",
-            "imageName": "random-254.jpg"
+            "description": "WS Price: INR 60"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "NANO CLEANING SPONGES NANO CLEAN",
@@ -3843,11 +3843,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "14",
-            "description": "WS Price: INR 18",
-            "imageData": "https://picsum.photos/seed/rukhi-255/320/220",
-            "imageName": "random-255.jpg"
+            "description": "WS Price: INR 18"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       }
     ]
   },
@@ -3862,11 +3862,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "132",
-            "description": "WS Price: INR 139",
-            "imageData": "https://picsum.photos/seed/rukhi-129/320/220",
-            "imageName": "random-129.jpg"
+            "description": "WS Price: INR 139"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "OPENER (12PC) RELIFE TD1 PRO",
@@ -3876,11 +3876,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "310",
-            "description": "WS Price: INR 320",
-            "imageData": "https://picsum.photos/seed/rukhi-130/320/220",
-            "imageName": "random-130.jpg"
+            "description": "WS Price: INR 320"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "TD1-A",
@@ -3890,11 +3890,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "35",
-            "description": "WS Price: INR 40",
-            "imageData": "https://picsum.photos/seed/rukhi-131/320/220",
-            "imageName": "random-131.jpg"
+            "description": "WS Price: INR 40"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "TD1-B",
@@ -3904,11 +3904,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "35",
-            "description": "WS Price: INR 40",
-            "imageData": "https://picsum.photos/seed/rukhi-132/320/220",
-            "imageName": "random-132.jpg"
+            "description": "WS Price: INR 40"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "X-3",
@@ -3918,11 +3918,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "30",
-            "description": "WS Price: INR 35",
-            "imageData": "https://picsum.photos/seed/rukhi-133/320/220",
-            "imageName": "random-133.jpg"
+            "description": "WS Price: INR 35"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "X-5",
@@ -3932,11 +3932,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "30",
-            "description": "WS Price: INR 35",
-            "imageData": "https://picsum.photos/seed/rukhi-134/320/220",
-            "imageName": "random-134.jpg"
+            "description": "WS Price: INR 35"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "X-20",
@@ -3946,11 +3946,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "35",
-            "description": "WS Price: INR 40",
-            "imageData": "https://picsum.photos/seed/rukhi-135/320/220",
-            "imageName": "random-135.jpg"
+            "description": "WS Price: INR 40"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "X-22",
@@ -3960,11 +3960,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "35",
-            "description": "WS Price: INR 40",
-            "imageData": "https://picsum.photos/seed/rukhi-136/320/220",
-            "imageName": "random-136.jpg"
+            "description": "WS Price: INR 40"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "OPENER SET 10 IN 1 10 IN 1",
@@ -3974,11 +3974,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "50",
-            "description": "WS Price: INR 55",
-            "imageData": "https://picsum.photos/seed/rukhi-137/320/220",
-            "imageName": "random-137.jpg"
+            "description": "WS Price: INR 55"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "STEEL OPENER SET 3 IN 1 3 IN 1",
@@ -3988,11 +3988,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "45",
-            "description": "WS Price: INR 50",
-            "imageData": "https://picsum.photos/seed/rukhi-138/320/220",
-            "imageName": "random-138.jpg"
+            "description": "WS Price: INR 50"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       }
     ]
   },
@@ -4007,11 +4007,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "215",
-            "description": "WS Price: INR 230",
-            "imageData": "https://picsum.photos/seed/rukhi-256/320/220",
-            "imageName": "random-256.jpg"
+            "description": "WS Price: INR 230"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "FINGERPRINT CALIBRATOR LUOWEI CALIBRATOR",
@@ -4021,11 +4021,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "400",
-            "description": "WS Price: INR 420",
-            "imageData": "https://picsum.photos/seed/rukhi-257/320/220",
-            "imageName": "random-257.jpg"
+            "description": "WS Price: INR 420"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "FINGERPRINT CALIBRATOR RELIFE RL-071B",
@@ -4035,11 +4035,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "415",
-            "description": "WS Price: INR 450",
-            "imageData": "https://picsum.photos/seed/rukhi-258/320/220",
-            "imageName": "random-258.jpg"
+            "description": "WS Price: INR 450"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "UNIVERSAL STENCIL KOOCU STENCIL",
@@ -4049,11 +4049,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "118",
-            "description": "WS Price: INR 125",
-            "imageData": "https://picsum.photos/seed/rukhi-259/320/220",
-            "imageName": "random-259.jpg"
+            "description": "WS Price: INR 125"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "UNIVERSAL STENCIL STENCIL",
@@ -4063,11 +4063,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "120",
-            "description": "WS Price: INR 125",
-            "imageData": "https://picsum.photos/seed/rukhi-260/320/220",
-            "imageName": "random-260.jpg"
+            "description": "WS Price: INR 125"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "SIM CHECKER 2UUL SM-01",
@@ -4077,11 +4077,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "170",
-            "description": "WS Price: INR 175",
-            "imageData": "https://picsum.photos/seed/rukhi-261/320/220",
-            "imageName": "random-261.jpg"
+            "description": "WS Price: INR 175"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "MAGIC SOLDER PIECE MECHANIC MAGIC TAG",
@@ -4091,11 +4091,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "135",
-            "description": "WS Price: INR 150",
-            "imageData": "https://picsum.photos/seed/rukhi-262/320/220",
-            "imageName": "random-262.jpg"
+            "description": "WS Price: INR 150"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       }
     ]
   },
@@ -4110,11 +4110,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "920",
-            "description": "WS Price: INR 950",
-            "imageData": "https://picsum.photos/seed/rukhi-294/320/220",
-            "imageName": "random-294.jpg"
+            "description": "WS Price: INR 950"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "Magnetic Levitation CPU Degumming Tinning Platform MagTin X",
@@ -4124,11 +4124,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1100",
-            "description": "WS Price: INR 1150",
-            "imageData": "https://picsum.photos/seed/rukhi-295/320/220",
-            "imageName": "random-295.jpg"
+            "description": "WS Price: INR 1150"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "Dual Axis Universal Fixture MG-F01",
@@ -4138,11 +4138,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "950",
-            "description": "WS Price: INR 1000",
-            "imageData": "https://picsum.photos/seed/rukhi-296/320/220",
-            "imageName": "random-296.jpg"
+            "description": "WS Price: INR 1000"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "THE ONE JIG 2UUL BH-03",
@@ -4152,11 +4152,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1145",
-            "description": "WS Price: INR 1190",
-            "imageData": "https://picsum.photos/seed/rukhi-297/320/220",
-            "imageName": "random-297.jpg"
+            "description": "WS Price: INR 1190"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "THE ONE JIG (ARABIC VERSION) BH-08",
@@ -4166,11 +4166,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1150",
-            "description": "WS Price: INR 1180",
-            "imageData": "https://picsum.photos/seed/rukhi-298/320/220",
-            "imageName": "random-298.jpg"
+            "description": "WS Price: INR 1180"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "THE ONE JIG (INDIAN VERSION) BH-09",
@@ -4180,11 +4180,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1150",
-            "description": "WS Price: INR 1180",
-            "imageData": "https://picsum.photos/seed/rukhi-299/320/220",
-            "imageName": "random-299.jpg"
+            "description": "WS Price: INR 1180"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "THE SMILE JIG MINI 2UUL BH-30",
@@ -4194,11 +4194,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "840",
-            "description": "WS Price: INR 900",
-            "imageData": "https://picsum.photos/seed/rukhi-300/320/220",
-            "imageName": "random-300.jpg"
+            "description": "WS Price: INR 900"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "GLASS OX JIG UNIVERSAL PHONE PCB BOARD HOLDER BH-21",
@@ -4208,11 +4208,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1060",
-            "description": "WS Price: INR 1100",
-            "imageData": "https://picsum.photos/seed/rukhi-301/320/220",
-            "imageName": "random-301.jpg"
+            "description": "WS Price: INR 1100"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       }
     ]
   },
@@ -4227,11 +4227,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "3750",
-            "description": "WS Price: INR 3850",
-            "imageData": "https://picsum.photos/seed/rukhi-60/320/220",
-            "imageName": "random-60.jpg"
+            "description": "WS Price: INR 3850"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "DC POWER SUPPLY RF4 3005 PRO",
@@ -4241,11 +4241,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "5500",
-            "description": "WS Price: INR 5800",
-            "imageData": "https://picsum.photos/seed/rukhi-61/320/220",
-            "imageName": "random-61.jpg"
+            "description": "WS Price: INR 5800"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "DC POWER SUPPLY YIHUA 3005 D",
@@ -4255,11 +4255,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "2600",
-            "description": "WS Price: INR 2800",
-            "imageData": "https://picsum.photos/seed/rukhi-62/320/220",
-            "imageName": "random-62.jpg"
+            "description": "WS Price: INR 2800"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "DC POWER SUPPLY DC-876",
@@ -4269,11 +4269,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "2200",
-            "description": "WS Price: INR 2500",
-            "imageData": "https://picsum.photos/seed/rukhi-63/320/220",
-            "imageName": "random-63.jpg"
+            "description": "WS Price: INR 2500"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "DC POWER SUPPLY YCS 3060",
@@ -4283,11 +4283,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "4100",
-            "description": "WS Price: INR 4200",
-            "imageData": "https://picsum.photos/seed/rukhi-64/320/220",
-            "imageName": "random-64.jpg"
+            "description": "WS Price: INR 4200"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "DC POWER SUPPLY SUGON 3005 D",
@@ -4297,11 +4297,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "5500",
-            "description": "WS Price: INR 5600",
-            "imageData": "https://picsum.photos/seed/rukhi-65/320/220",
-            "imageName": "random-65.jpg"
+            "description": "WS Price: INR 5600"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "DC POWER SUPPLY SUNSHINE P2 PRO",
@@ -4311,11 +4311,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "6500",
-            "description": "WS Price: INR 6600",
-            "imageData": "https://picsum.photos/seed/rukhi-66/320/220",
-            "imageName": "random-66.jpg"
+            "description": "WS Price: INR 6600"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "DC POWER SUPPLY SUGON 3010 PM",
@@ -4325,11 +4325,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "9900",
-            "description": "WS Price: INR 10200",
-            "imageData": "https://picsum.photos/seed/rukhi-67/320/220",
-            "imageName": "random-67.jpg"
+            "description": "WS Price: INR 10200"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       }
     ]
   },
@@ -4344,11 +4344,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "58",
-            "description": "WS Price: INR 65",
-            "imageData": "https://picsum.photos/seed/rukhi-283/320/220",
-            "imageName": "random-283.jpg"
+            "description": "WS Price: INR 65"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "GUN TYPE SOLDER AWAY DW-21 [2.0mm]",
@@ -4358,11 +4358,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "165",
-            "description": "WS Price: INR 175",
-            "imageData": "https://picsum.photos/seed/rukhi-284/320/220",
-            "imageName": "random-284.jpg"
+            "description": "WS Price: INR 175"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "NICKEL SHEET SOLDER WIRE MECHANIC N-83",
@@ -4372,11 +4372,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "125",
-            "description": "WS Price: INR 130",
-            "imageData": "https://picsum.photos/seed/rukhi-285/320/220",
-            "imageName": "random-285.jpg"
+            "description": "WS Price: INR 130"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "METAL BOARD SOLDERING 2UUL SC-39 [0.8MM*3M]",
@@ -4386,11 +4386,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "130",
-            "description": "WS Price: INR 140",
-            "imageData": "https://picsum.photos/seed/rukhi-286/320/220",
-            "imageName": "random-286.jpg"
+            "description": "WS Price: INR 140"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "PRE-CUT THERMAL PAD 2UUL SC-02",
@@ -4400,11 +4400,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "145",
-            "description": "WS Price: INR 155",
-            "imageData": "https://picsum.photos/seed/rukhi-287/320/220",
-            "imageName": "random-287.jpg"
+            "description": "WS Price: INR 155"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "0.4mm",
@@ -4414,11 +4414,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "69",
-            "description": "WS Price: INR 75",
-            "imageData": "https://picsum.photos/seed/rukhi-288/320/220",
-            "imageName": "random-288.jpg"
+            "description": "WS Price: INR 75"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "0.5mm",
@@ -4428,11 +4428,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "69",
-            "description": "WS Price: INR 75",
-            "imageData": "https://picsum.photos/seed/rukhi-289/320/220",
-            "imageName": "random-289.jpg"
+            "description": "WS Price: INR 75"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "0.4mm",
@@ -4442,11 +4442,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "48",
-            "description": "WS Price: INR 55",
-            "imageData": "https://picsum.photos/seed/rukhi-290/320/220",
-            "imageName": "random-290.jpg"
+            "description": "WS Price: INR 55"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "0.5mm",
@@ -4456,11 +4456,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "48",
-            "description": "WS Price: INR 55",
-            "imageData": "https://picsum.photos/seed/rukhi-291/320/220",
-            "imageName": "random-291.jpg"
+            "description": "WS Price: INR 55"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "0.8mm",
@@ -4470,11 +4470,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "48",
-            "description": "WS Price: INR 55",
-            "imageData": "https://picsum.photos/seed/rukhi-292/320/220",
-            "imageName": "random-292.jpg"
+            "description": "WS Price: INR 55"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "SOLDER WIRE JP-35 SOLDER WIRE M-60 [40g]",
@@ -4484,11 +4484,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "60",
-            "description": "WS Price: INR 40",
-            "imageData": "https://picsum.photos/seed/rukhi-293/320/220",
-            "imageName": "random-293.jpg"
+            "description": "WS Price: INR 40"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       }
     ]
   },
@@ -4503,11 +4503,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "150",
-            "description": "WS Price: INR 160",
-            "imageData": "https://picsum.photos/seed/rukhi-167/320/220",
-            "imageName": "random-167.jpg"
+            "description": "WS Price: INR 160"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "ROTATABLE MULTIFUNCTIONAL REPAIR STORAGE RL-001H",
@@ -4517,11 +4517,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "630",
-            "description": "WS Price: INR 650",
-            "imageData": "https://picsum.photos/seed/rukhi-168/320/220",
-            "imageName": "random-168.jpg"
+            "description": "WS Price: INR 650"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "ALL IN 1 STORAGE BOX RELIFE RL-001K",
@@ -4531,11 +4531,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "560",
-            "description": "WS Price: INR 580",
-            "imageData": "https://picsum.photos/seed/rukhi-169/320/220",
-            "imageName": "random-169.jpg"
+            "description": "WS Price: INR 580"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "STORAGE BOX RELIFE RL-001F",
@@ -4545,11 +4545,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "650",
-            "description": "WS Price: INR 700",
-            "imageData": "https://picsum.photos/seed/rukhi-170/320/220",
-            "imageName": "random-170.jpg"
+            "description": "WS Price: INR 700"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       }
     ]
   },
@@ -4564,11 +4564,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1420",
-            "description": "WS Price: INR 1500",
-            "imageData": "https://picsum.photos/seed/rukhi-107/320/220",
-            "imageName": "random-107.jpg"
+            "description": "WS Price: INR 1500"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "HOT AIR GUN REWORK STATION 850A",
@@ -4578,11 +4578,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1420",
-            "description": "WS Price: INR 1500",
-            "imageData": "https://picsum.photos/seed/rukhi-108/320/220",
-            "imageName": "random-108.jpg"
+            "description": "WS Price: INR 1500"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "HOT AIR GUN REWORK STATION 857DW+2",
@@ -4592,11 +4592,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "2530",
-            "description": "WS Price: INR 2650",
-            "imageData": "https://picsum.photos/seed/rukhi-109/320/220",
-            "imageName": "random-109.jpg"
+            "description": "WS Price: INR 2650"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "HOT AIR GUN REWORK STATION 857W+",
@@ -4606,11 +4606,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "5050",
-            "description": "WS Price: INR 5300",
-            "imageData": "https://picsum.photos/seed/rukhi-110/320/220",
-            "imageName": "random-110.jpg"
+            "description": "WS Price: INR 5300"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "HOT AIR GUN REWORK STATION 858D",
@@ -4620,11 +4620,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1510",
-            "description": "WS Price: INR 1580",
-            "imageData": "https://picsum.photos/seed/rukhi-111/320/220",
-            "imageName": "random-111.jpg"
+            "description": "WS Price: INR 1580"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "HOT AIR GUN REWORK STATION 858D",
@@ -4634,11 +4634,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1480",
-            "description": "WS Price: INR 1550",
-            "imageData": "https://picsum.photos/seed/rukhi-112/320/220",
-            "imageName": "random-112.jpg"
+            "description": "WS Price: INR 1550"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "HOT AIR GUN REWORK STATION 957DW",
@@ -4648,11 +4648,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "2350",
-            "description": "WS Price: INR 2450",
-            "imageData": "https://picsum.photos/seed/rukhi-113/320/220",
-            "imageName": "random-113.jpg"
+            "description": "WS Price: INR 2450"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "HOT AIR GUN REWORK STATION 858D",
@@ -4662,11 +4662,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "2970",
-            "description": "WS Price: INR 3050",
-            "imageData": "https://picsum.photos/seed/rukhi-114/320/220",
-            "imageName": "random-114.jpg"
+            "description": "WS Price: INR 3050"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "HOT AIR GUN WITH SOLDERING IRON 202",
@@ -4676,11 +4676,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "5700",
-            "description": "WS Price: INR 5800",
-            "imageData": "https://picsum.photos/seed/rukhi-115/320/220",
-            "imageName": "random-115.jpg"
+            "description": "WS Price: INR 5800"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "HOT AIR GUN REWORK STATION 8610DX PRO",
@@ -4690,11 +4690,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "12320",
-            "description": "WS Price: INR 12600",
-            "imageData": "https://picsum.photos/seed/rukhi-116/320/220",
-            "imageName": "random-116.jpg"
+            "description": "WS Price: INR 12600"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "HOT AIR GUN REWORK STATION 8620DX PRO",
@@ -4704,11 +4704,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "13970",
-            "description": "WS Price: INR 14200",
-            "imageData": "https://picsum.photos/seed/rukhi-117/320/220",
-            "imageName": "random-117.jpg"
+            "description": "WS Price: INR 14200"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "HOT AIR GUN REWORK STATION 8630 PRO",
@@ -4718,11 +4718,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "14500",
-            "description": "WS Price: INR 14600",
-            "imageData": "https://picsum.photos/seed/rukhi-118/320/220",
-            "imageName": "random-118.jpg"
+            "description": "WS Price: INR 14600"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "HOT AIR GUN REWORK STATION 8650 PRO",
@@ -4732,11 +4732,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "19400",
-            "description": "WS Price: INR 19500",
-            "imageData": "https://picsum.photos/seed/rukhi-119/320/220",
-            "imageName": "random-119.jpg"
+            "description": "WS Price: INR 19500"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "HOT AIR GUN REWORK STATION 861 DW",
@@ -4746,11 +4746,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "6100",
-            "description": "WS Price: INR 6500",
-            "imageData": "https://picsum.photos/seed/rukhi-120/320/220",
-            "imageName": "random-120.jpg"
+            "description": "WS Price: INR 6500"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       }
     ]
   },
@@ -4765,11 +4765,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "123",
-            "description": "WS Price: INR 130",
-            "imageData": "https://picsum.photos/seed/rukhi-331/320/220",
-            "imageName": "random-331.jpg"
+            "description": "WS Price: INR 130"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "MG-WK1 2.5",
@@ -4779,11 +4779,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "115",
-            "description": "WS Price: INR 120",
-            "imageData": "https://picsum.photos/seed/rukhi-332/320/220",
-            "imageName": "random-332.jpg"
+            "description": "WS Price: INR 120"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "Screwdriver Set MASTERGO MG-WK1 6in1",
@@ -4793,11 +4793,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "635",
-            "description": "WS Price: INR 650",
-            "imageData": "https://picsum.photos/seed/rukhi-333/320/220",
-            "imageName": "random-333.jpg"
+            "description": "WS Price: INR 650"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "TOOLS KIT SCREWDRIVER SET KOOCU 8063",
@@ -4807,11 +4807,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "550",
-            "description": "WS Price: INR 570",
-            "imageData": "https://picsum.photos/seed/rukhi-334/320/220",
-            "imageName": "random-334.jpg"
+            "description": "WS Price: INR 570"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "TOOLS KIT SCREWDRIVER SET KOOCU KC-915",
@@ -4821,11 +4821,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "580",
-            "description": "WS Price: INR 600",
-            "imageData": "https://picsum.photos/seed/rukhi-335/320/220",
-            "imageName": "random-335.jpg"
+            "description": "WS Price: INR 600"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "TOOLS KIT SCREWDRIVER SET KOOCU KC-916",
@@ -4835,11 +4835,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "635",
-            "description": "WS Price: INR 650",
-            "imageData": "https://picsum.photos/seed/rukhi-336/320/220",
-            "imageName": "random-336.jpg"
+            "description": "WS Price: INR 650"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "SCREW DRIVER RL-721 RELIFE 0.8",
@@ -4849,11 +4849,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "68",
-            "description": "WS Price: INR 72",
-            "imageData": "https://picsum.photos/seed/rukhi-337/320/220",
-            "imageName": "random-337.jpg"
+            "description": "WS Price: INR 72"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "SCREWDRIVER SS-710 1.5",
@@ -4863,11 +4863,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "79",
-            "description": "WS Price: INR 85",
-            "imageData": "https://picsum.photos/seed/rukhi-338/320/220",
-            "imageName": "random-338.jpg"
+            "description": "WS Price: INR 85"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "SCREWDRIVER LUOWEI [+1.5]",
@@ -4877,11 +4877,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "168",
-            "description": "WS Price: INR 175",
-            "imageData": "https://picsum.photos/seed/rukhi-339/320/220",
-            "imageName": "random-339.jpg"
+            "description": "WS Price: INR 175"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "SCREW DRIVER SCREWDRIVER KOOCU 928 [+1.5]",
@@ -4891,11 +4891,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "95",
-            "description": "WS Price: INR 100",
-            "imageData": "https://picsum.photos/seed/rukhi-350/320/220",
-            "imageName": "random-350.jpg"
+            "description": "WS Price: INR 100"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "SCREWDRIVER RELIFE RL-722 [0.8]",
@@ -4905,11 +4905,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "125",
-            "description": "WS Price: INR 130",
-            "imageData": "https://picsum.photos/seed/rukhi-351/320/220",
-            "imageName": "random-351.jpg"
+            "description": "WS Price: INR 130"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "SCREWDRIVER KOOCU 658 [+1.5]",
@@ -4919,11 +4919,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "26",
-            "description": "WS Price: INR 28",
-            "imageData": "https://picsum.photos/seed/rukhi-352/320/220",
-            "imageName": "random-352.jpg"
+            "description": "WS Price: INR 28"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "SCREWDRIVER SUNSHINE RL-719 [+1.5]",
@@ -4933,11 +4933,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "180",
-            "description": "WS Price: INR 190",
-            "imageData": "https://picsum.photos/seed/rukhi-353/320/220",
-            "imageName": "random-353.jpg"
+            "description": "WS Price: INR 190"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       }
     ]
   },
@@ -4952,11 +4952,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "64",
-            "description": "WS Price: INR 70",
-            "imageData": "https://picsum.photos/seed/rukhi-340/320/220",
-            "imageName": "random-340.jpg"
+            "description": "WS Price: INR 70"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "SCREWDRIVER KOOCU 989 [+1.5]",
@@ -4966,11 +4966,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "102",
-            "description": "WS Price: INR 110",
-            "imageData": "https://picsum.photos/seed/rukhi-341/320/220",
-            "imageName": "random-341.jpg"
+            "description": "WS Price: INR 110"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "SCREWDRIVER KOOCU 989 *0.8",
@@ -4980,11 +4980,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "88",
-            "description": "WS Price: INR 95",
-            "imageData": "https://picsum.photos/seed/rukhi-342/320/220",
-            "imageName": "random-342.jpg"
+            "description": "WS Price: INR 95"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "SCREWDRIVER KOOCU 668 [+1.5]",
@@ -4994,11 +4994,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "27",
-            "description": "WS Price: INR 30",
-            "imageData": "https://picsum.photos/seed/rukhi-343/320/220",
-            "imageName": "random-343.jpg"
+            "description": "WS Price: INR 30"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "SCREWDRIVER SET 8222",
@@ -5008,11 +5008,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "80",
-            "description": "WS Price: INR 90",
-            "imageData": "https://picsum.photos/seed/rukhi-344/320/220",
-            "imageName": "random-344.jpg"
+            "description": "WS Price: INR 90"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "SCREWDRIVER TOOLS SET [8PCS SET] ONE STOP 8658",
@@ -5022,11 +5022,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "210",
-            "description": "WS Price: INR 230",
-            "imageData": "https://picsum.photos/seed/rukhi-345/320/220",
-            "imageName": "random-345.jpg"
+            "description": "WS Price: INR 230"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "[+1.5]",
@@ -5036,11 +5036,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "100",
-            "description": "WS Price: INR 110",
-            "imageData": "https://picsum.photos/seed/rukhi-346/320/220",
-            "imageName": "random-346.jpg"
+            "description": "WS Price: INR 110"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "[0.6]",
@@ -5050,11 +5050,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "100",
-            "description": "WS Price: INR 110",
-            "imageData": "https://picsum.photos/seed/rukhi-347/320/220",
-            "imageName": "random-347.jpg"
+            "description": "WS Price: INR 110"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "I SHELL MORTOR MINI SCREWDRIVER [+1.5]",
@@ -5064,11 +5064,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "145",
-            "description": "WS Price: INR 150",
-            "imageData": "https://picsum.photos/seed/rukhi-348/320/220",
-            "imageName": "random-348.jpg"
+            "description": "WS Price: INR 150"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "MORTAR SE SCREWDRIVER MORTAR SE [+1.5]",
@@ -5078,11 +5078,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "105",
-            "description": "WS Price: INR 110",
-            "imageData": "https://picsum.photos/seed/rukhi-349/320/220",
-            "imageName": "random-349.jpg"
+            "description": "WS Price: INR 110"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       }
     ]
   },
@@ -5097,11 +5097,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "3400",
-            "description": "WS Price: INR 3500",
-            "imageData": "https://picsum.photos/seed/rukhi-50/320/220",
-            "imageName": "random-50.jpg"
+            "description": "WS Price: INR 3500"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "Multifunctional Rotary Plate Separator (EDGE+FLAT+TAB) MGS8 Max",
@@ -5111,11 +5111,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "6400",
-            "description": "WS Price: INR 6500",
-            "imageData": "https://picsum.photos/seed/rukhi-51/320/220",
-            "imageName": "random-51.jpg"
+            "description": "WS Price: INR 6500"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "MCN SEPARATOR MECHANIC MCN 1912",
@@ -5125,11 +5125,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "2205",
-            "description": "WS Price: INR 2310",
-            "imageData": "https://picsum.photos/seed/rukhi-52/320/220",
-            "imageName": "random-52.jpg"
+            "description": "WS Price: INR 2310"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "SEPARATOR MECHANIC D-200",
@@ -5139,11 +5139,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1999",
-            "description": "WS Price: INR 2150",
-            "imageData": "https://picsum.photos/seed/rukhi-53/320/220",
-            "imageName": "random-53.jpg"
+            "description": "WS Price: INR 2150"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "SEPRATOR MACHINE (EDGE+FLAT) KOOCU 360 R3",
@@ -5153,11 +5153,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "5850",
-            "description": "WS Price: INR 5900",
-            "imageData": "https://picsum.photos/seed/rukhi-54/320/220",
-            "imageName": "random-54.jpg"
+            "description": "WS Price: INR 5900"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "(AI INTELLIGENT VOICE) S-918F PLUS [5 IN 1]",
@@ -5167,11 +5167,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "6490",
-            "description": "WS Price: INR 6600",
-            "imageData": "https://picsum.photos/seed/rukhi-55/320/220",
-            "imageName": "random-55.jpg"
+            "description": "WS Price: INR 6600"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "SEPARATOR [5 IN 1] S-918F PLUS [5 IN 1]",
@@ -5181,11 +5181,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "6200",
-            "description": "WS Price: INR 6500",
-            "imageData": "https://picsum.photos/seed/rukhi-56/320/220",
-            "imageName": "random-56.jpg"
+            "description": "WS Price: INR 6500"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       }
     ]
   },
@@ -5200,11 +5200,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "7950",
-            "description": "WS Price: INR 8050",
-            "imageData": "https://picsum.photos/seed/rukhi-100/320/220",
-            "imageName": "random-100.jpg"
+            "description": "WS Price: INR 8050"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "SMD REWORK STATION (2 IN 1) MECHANIC 8586D",
@@ -5214,11 +5214,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "3525",
-            "description": "WS Price: INR 3580",
-            "imageData": "https://picsum.photos/seed/rukhi-101/320/220",
-            "imageName": "random-101.jpg"
+            "description": "WS Price: INR 3580"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "HOT AIR GUN REWORK STATION R1-PRO",
@@ -5228,11 +5228,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "9990",
-            "description": "WS Price: INR 10100",
-            "imageData": "https://picsum.photos/seed/rukhi-102/320/220",
-            "imageName": "random-102.jpg"
+            "description": "WS Price: INR 10100"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "REWORK STATION LUOWEI HG-01",
@@ -5242,11 +5242,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "4900",
-            "description": "WS Price: INR 5200",
-            "imageData": "https://picsum.photos/seed/rukhi-103/320/220",
-            "imageName": "random-103.jpg"
+            "description": "WS Price: INR 5200"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "HOT AIR GUN REWORK STATION RF-H3",
@@ -5256,11 +5256,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "6700",
-            "description": "WS Price: INR 7000",
-            "imageData": "https://picsum.photos/seed/rukhi-104/320/220",
-            "imageName": "random-104.jpg"
+            "description": "WS Price: INR 7000"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "HOT AIR GUN REWORK STATION RF-H4",
@@ -5270,11 +5270,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "7800",
-            "description": "WS Price: INR 8000",
-            "imageData": "https://picsum.photos/seed/rukhi-105/320/220",
-            "imageName": "random-105.jpg"
+            "description": "WS Price: INR 8000"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "HOT AIR GUN REWORK STATION HK-850",
@@ -5284,11 +5284,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "2250",
-            "description": "WS Price: INR 2500",
-            "imageData": "https://picsum.photos/seed/rukhi-106/320/220",
-            "imageName": "random-106.jpg"
+            "description": "WS Price: INR 2500"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       }
     ]
   },
@@ -5303,11 +5303,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "43",
-            "description": "WS Price: INR 45",
-            "imageData": "https://picsum.photos/seed/rukhi-275/320/220",
-            "imageName": "random-275.jpg"
+            "description": "WS Price: INR 45"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "DESOLDERING WICK [5PCS SET] KOOCU DW-2015",
@@ -5317,11 +5317,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "235",
-            "description": "WS Price: INR 240",
-            "imageData": "https://picsum.photos/seed/rukhi-276/320/220",
-            "imageName": "random-276.jpg"
+            "description": "WS Price: INR 240"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "[3.5mm] [10PCS]",
@@ -5331,11 +5331,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "500",
-            "description": "WS Price: INR 525",
-            "imageData": "https://picsum.photos/seed/rukhi-277/320/220",
-            "imageName": "random-277.jpg"
+            "description": "WS Price: INR 525"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "[2.0mm] [5PCS]",
@@ -5345,11 +5345,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "290",
-            "description": "WS Price: INR 320",
-            "imageData": "https://picsum.photos/seed/rukhi-278/320/220",
-            "imageName": "random-278.jpg"
+            "description": "WS Price: INR 320"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "Super Solder Wick DW50 [1.5mm]",
@@ -5359,25 +5359,25 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "59",
-            "description": "WS Price: INR 62",
-            "imageData": "https://picsum.photos/seed/rukhi-279/320/220",
-            "imageName": "random-279.jpg"
+            "description": "WS Price: INR 62"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
-        "name": "Soldering Wire [183\u2103 100M 50g]",
-        "modelNumber": "[183\u2103 100M 50g]",
+        "name": "Soldering Wire [183℃ 100M 50g]",
+        "modelNumber": "[183℃ 100M 50g]",
         "description": "Soldering Wire",
         "variants": [
           {
             "name": "Standard",
             "price": "100",
-            "description": "WS Price: INR 50",
-            "imageData": "https://picsum.photos/seed/rukhi-280/320/220",
-            "imageName": "random-280.jpg"
+            "description": "WS Price: INR 50"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "SC-31",
@@ -5387,11 +5387,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "175",
-            "description": "WS Price: INR 180",
-            "imageData": "https://picsum.photos/seed/rukhi-281/320/220",
-            "imageName": "random-281.jpg"
+            "description": "WS Price: INR 180"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "SOLDERING WIRE KOOCU 1.0 100G 45%",
@@ -5401,11 +5401,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "145",
-            "description": "WS Price: INR 155",
-            "imageData": "https://picsum.photos/seed/rukhi-282/320/220",
-            "imageName": "random-282.jpg"
+            "description": "WS Price: INR 155"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       }
     ]
   },
@@ -5420,11 +5420,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "2280",
-            "description": "WS Price: INR 2350",
-            "imageData": "https://picsum.photos/seed/rukhi-76/320/220",
-            "imageName": "random-76.jpg"
+            "description": "WS Price: INR 2350"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "SOLDERING STATION OSS T-12X",
@@ -5434,11 +5434,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1850",
-            "description": "WS Price: INR 1900",
-            "imageData": "https://picsum.photos/seed/rukhi-77/320/220",
-            "imageName": "random-77.jpg"
+            "description": "WS Price: INR 1900"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "SOLDERING STATION BAKU 936D",
@@ -5448,11 +5448,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "890",
-            "description": "WS Price: INR 950",
-            "imageData": "https://picsum.photos/seed/rukhi-78/320/220",
-            "imageName": "random-78.jpg"
+            "description": "WS Price: INR 950"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "SOLDERING STATION MAXX-PAMMA 1008",
@@ -5462,11 +5462,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "295",
-            "description": "WS Price: INR 320",
-            "imageData": "https://picsum.photos/seed/rukhi-79/320/220",
-            "imageName": "random-79.jpg"
+            "description": "WS Price: INR 320"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "MICRO SOLDERING STATION MAXX-PAMMA M-550",
@@ -5476,11 +5476,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "260",
-            "description": "WS Price: INR 290",
-            "imageData": "https://picsum.photos/seed/rukhi-80/320/220",
-            "imageName": "random-80.jpg"
+            "description": "WS Price: INR 290"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "MICRO SOLDERING STATION GOLI-KUKAL GOLI KUKAL",
@@ -5490,11 +5490,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "280",
-            "description": "WS Price: INR 320",
-            "imageData": "https://picsum.photos/seed/rukhi-81/320/220",
-            "imageName": "random-81.jpg"
+            "description": "WS Price: INR 320"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "SOLDERING STATION AOJIW T-12X",
@@ -5504,11 +5504,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "850",
-            "description": "WS Price: INR 1000",
-            "imageData": "https://picsum.photos/seed/rukhi-82/320/220",
-            "imageName": "random-82.jpg"
+            "description": "WS Price: INR 1000"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "SMART PORTABLE SOLDERING IRON TS-1",
@@ -5518,11 +5518,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "2250",
-            "description": "WS Price: INR 2400",
-            "imageData": "https://picsum.photos/seed/rukhi-83/320/220",
-            "imageName": "random-83.jpg"
+            "description": "WS Price: INR 2400"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "SOLDERING IRON STAND 936 [IRON STAND]",
@@ -5532,11 +5532,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "90",
-            "description": "WS Price: INR 110",
-            "imageData": "https://picsum.photos/seed/rukhi-84/320/220",
-            "imageName": "random-84.jpg"
+            "description": "WS Price: INR 110"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "SOLDERING IRON KOOCU V-501",
@@ -5546,11 +5546,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "190",
-            "description": "WS Price: INR 200",
-            "imageData": "https://picsum.photos/seed/rukhi-85/320/220",
-            "imageName": "random-85.jpg"
+            "description": "WS Price: INR 200"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "SOLDERING IRON KOOCU V-503",
@@ -5560,11 +5560,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "180",
-            "description": "WS Price: INR 190",
-            "imageData": "https://picsum.photos/seed/rukhi-86/320/220",
-            "imageName": "random-86.jpg"
+            "description": "WS Price: INR 190"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "SOLDERING IRON SUNSHINE SL-503",
@@ -5574,11 +5574,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "225",
-            "description": "WS Price: INR 250",
-            "imageData": "https://picsum.photos/seed/rukhi-87/320/220",
-            "imageName": "random-87.jpg"
+            "description": "WS Price: INR 250"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "SOLDERING IRON SUNSHINE SL-907A",
@@ -5588,11 +5588,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "230",
-            "description": "WS Price: INR 260",
-            "imageData": "https://picsum.photos/seed/rukhi-88/320/220",
-            "imageName": "random-88.jpg"
+            "description": "WS Price: INR 260"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "SOLDERING IRON SL-908 [60W]",
@@ -5602,11 +5602,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "325",
-            "description": "WS Price: INR 350",
-            "imageData": "https://picsum.photos/seed/rukhi-89/320/220",
-            "imageName": "random-89.jpg"
+            "description": "WS Price: INR 350"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "SOLDERING IRON SUNSHINE SL-905",
@@ -5616,11 +5616,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "285",
-            "description": "WS Price: INR 300",
-            "imageData": "https://picsum.photos/seed/rukhi-90/320/220",
-            "imageName": "random-90.jpg"
+            "description": "WS Price: INR 300"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "SOLDERING IRON 936 [90W]",
@@ -5630,11 +5630,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "360",
-            "description": "WS Price: INR 400",
-            "imageData": "https://picsum.photos/seed/rukhi-91/320/220",
-            "imageName": "random-91.jpg"
+            "description": "WS Price: INR 400"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "SOLDERING STATION-IRON-HANDLE SMD HANDLE QUICK 857DW+ [HANDLE]",
@@ -5644,11 +5644,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "320",
-            "description": "WS Price: INR 350",
-            "imageData": "https://picsum.photos/seed/rukhi-92/320/220",
-            "imageName": "random-92.jpg"
+            "description": "WS Price: INR 350"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "SOLDERING IRON MICRO SOLDERING PEN",
@@ -5658,11 +5658,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "60",
-            "description": "WS Price: INR 65",
-            "imageData": "https://picsum.photos/seed/rukhi-93/320/220",
-            "imageName": "random-93.jpg"
+            "description": "WS Price: INR 65"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "SOLDERING IRON ONE-STOP OS-806B",
@@ -5672,11 +5672,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "135",
-            "description": "WS Price: INR 150",
-            "imageData": "https://picsum.photos/seed/rukhi-94/320/220",
-            "imageName": "random-94.jpg"
+            "description": "WS Price: INR 150"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "SOLDERING IRON PEN OSS T-12X",
@@ -5686,11 +5686,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "370",
-            "description": "WS Price: INR 420",
-            "imageData": "https://picsum.photos/seed/rukhi-95/320/220",
-            "imageName": "random-95.jpg"
+            "description": "WS Price: INR 420"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "SOLDERING IRON HK-990 [90W]",
@@ -5700,11 +5700,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "380",
-            "description": "WS Price: INR 420",
-            "imageData": "https://picsum.photos/seed/rukhi-96/320/220",
-            "imageName": "random-96.jpg"
+            "description": "WS Price: INR 420"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "SOLDERING IRON HK-560 [60W]",
@@ -5714,11 +5714,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "200",
-            "description": "WS Price: INR 220",
-            "imageData": "https://picsum.photos/seed/rukhi-97/320/220",
-            "imageName": "random-97.jpg"
+            "description": "WS Price: INR 220"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "IRON HANDLE KADA KADA",
@@ -5728,11 +5728,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "340",
-            "description": "WS Price: INR 400",
-            "imageData": "https://picsum.photos/seed/rukhi-98/320/220",
-            "imageName": "random-98.jpg"
+            "description": "WS Price: INR 400"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "SMD HANDLE 850A 850A HANDLE",
@@ -5742,11 +5742,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "240",
-            "description": "WS Price: INR 300",
-            "imageData": "https://picsum.photos/seed/rukhi-99/320/220",
-            "imageName": "random-99.jpg"
+            "description": "WS Price: INR 300"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       }
     ]
   },
@@ -5761,11 +5761,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "210",
-            "description": "WS Price: INR 018",
-            "imageData": "https://picsum.photos/seed/rukhi-225/320/220",
-            "imageName": "random-225.jpg"
+            "description": "WS Price: INR 018"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "[BLACK]",
@@ -5775,11 +5775,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "145",
-            "description": "WS Price: INR 160",
-            "imageData": "https://picsum.photos/seed/rukhi-226/320/220",
-            "imageName": "random-226.jpg"
+            "description": "WS Price: INR 160"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "SOLDERING IRON TIP MECHANIC C210-SK",
@@ -5789,11 +5789,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "115",
-            "description": "WS Price: INR 125",
-            "imageData": "https://picsum.photos/seed/rukhi-227/320/220",
-            "imageName": "random-227.jpg"
+            "description": "WS Price: INR 125"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "SOLDERING IRON TIP RELIFE T12-XS-I",
@@ -5803,11 +5803,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "135",
-            "description": "WS Price: INR 145",
-            "imageData": "https://picsum.photos/seed/rukhi-228/320/220",
-            "imageName": "random-228.jpg"
+            "description": "WS Price: INR 145"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "900M-T-K",
@@ -5817,11 +5817,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "55",
-            "description": "WS Price: INR 65",
-            "imageData": "https://picsum.photos/seed/rukhi-229/320/220",
-            "imageName": "random-229.jpg"
+            "description": "WS Price: INR 65"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "900M-T-IS",
@@ -5831,11 +5831,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "55",
-            "description": "WS Price: INR 65",
-            "imageData": "https://picsum.photos/seed/rukhi-230/320/220",
-            "imageName": "random-230.jpg"
+            "description": "WS Price: INR 65"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "900M-T-I",
@@ -5845,11 +5845,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "55",
-            "description": "WS Price: INR 65",
-            "imageData": "https://picsum.photos/seed/rukhi-231/320/220",
-            "imageName": "random-231.jpg"
+            "description": "WS Price: INR 65"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "SILVER SOLDERING IRON BIT SET 5 IN 1",
@@ -5859,11 +5859,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "50",
-            "description": "WS Price: INR 55",
-            "imageData": "https://picsum.photos/seed/rukhi-232/320/220",
-            "imageName": "random-232.jpg"
+            "description": "WS Price: INR 55"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "936 IRON BIT SILVER CUT 900MTK",
@@ -5873,11 +5873,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "17",
-            "description": "WS Price: INR 20",
-            "imageData": "https://picsum.photos/seed/rukhi-233/320/220",
-            "imageName": "random-233.jpg"
+            "description": "WS Price: INR 20"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "Y22 PLUS PLOTTER CUTTING BLADE SUNSHINE CUTTING TIP",
@@ -5887,11 +5887,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "250",
-            "description": "WS Price: INR 280",
-            "imageData": "https://picsum.photos/seed/rukhi-234/320/220",
-            "imageName": "random-234.jpg"
+            "description": "WS Price: INR 280"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "ROSIN FLUX/BIT CLEANER RELIFE RL-070 8 10",
@@ -5901,11 +5901,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "070",
-            "description": "WS Price: INR 10",
-            "imageData": "https://picsum.photos/seed/rukhi-235/320/220",
-            "imageName": "random-235.jpg"
+            "description": "WS Price: INR 10"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       }
     ]
   },
@@ -5920,11 +5920,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1870",
-            "description": "WS Price: INR 1950",
-            "imageData": "https://picsum.photos/seed/rukhi-68/320/220",
-            "imageName": "random-68.jpg"
+            "description": "WS Price: INR 1950"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "IntelliGent temperature control anti-static soldering station T12 Pro",
@@ -5934,11 +5934,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1630",
-            "description": "WS Price: INR 1700",
-            "imageData": "https://picsum.photos/seed/rukhi-69/320/220",
-            "imageName": "random-69.jpg"
+            "description": "WS Price: INR 1700"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "SOLDERING STATION SUNSHINE T-12 ULTRA",
@@ -5948,11 +5948,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "2070",
-            "description": "WS Price: INR 2150",
-            "imageData": "https://picsum.photos/seed/rukhi-70/320/220",
-            "imageName": "random-70.jpg"
+            "description": "WS Price: INR 2150"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "SOLDERING STATION KOOCU T210 PLUS",
@@ -5962,11 +5962,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "2250",
-            "description": "WS Price: INR 2300",
-            "imageData": "https://picsum.photos/seed/rukhi-71/320/220",
-            "imageName": "random-71.jpg"
+            "description": "WS Price: INR 2300"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "DIGITAL DISPLAY SOLDERING STATION T-210 SE",
@@ -5976,11 +5976,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "2425",
-            "description": "WS Price: INR 2550",
-            "imageData": "https://picsum.photos/seed/rukhi-72/320/220",
-            "imageName": "random-72.jpg"
+            "description": "WS Price: INR 2550"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "DIGITAL DISPLAY SOLDERING STATION SWIFT-1",
@@ -5990,11 +5990,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "4050",
-            "description": "WS Price: INR 4250",
-            "imageData": "https://picsum.photos/seed/rukhi-73/320/220",
-            "imageName": "random-73.jpg"
+            "description": "WS Price: INR 4250"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "DUAL DIGITAL DISPLAY SOLDERING STATION A210 MAX",
@@ -6004,11 +6004,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "4540",
-            "description": "WS Price: INR 4800",
-            "imageData": "https://picsum.photos/seed/rukhi-74/320/220",
-            "imageName": "random-74.jpg"
+            "description": "WS Price: INR 4800"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "[160W] YCS S1 [T-210]",
@@ -6018,11 +6018,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "5950",
-            "description": "WS Price: INR 6100",
-            "imageData": "https://picsum.photos/seed/rukhi-75/320/220",
-            "imageName": "random-75.jpg"
+            "description": "WS Price: INR 6100"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       }
     ]
   },
@@ -6037,11 +6037,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "155",
-            "description": "WS Price: INR 170",
-            "imageData": "https://picsum.photos/seed/rukhi-213/320/220",
-            "imageName": "random-213.jpg"
+            "description": "WS Price: INR 170"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "T-245-IS",
@@ -6051,11 +6051,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "155",
-            "description": "WS Price: INR 170",
-            "imageData": "https://picsum.photos/seed/rukhi-214/320/220",
-            "imageName": "random-214.jpg"
+            "description": "WS Price: INR 170"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "T-245-SK",
@@ -6065,11 +6065,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "155",
-            "description": "WS Price: INR 170",
-            "imageData": "https://picsum.photos/seed/rukhi-215/320/220",
-            "imageName": "random-215.jpg"
+            "description": "WS Price: INR 170"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "MG210-I",
@@ -6079,11 +6079,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "124",
-            "description": "WS Price: INR 130",
-            "imageData": "https://picsum.photos/seed/rukhi-216/320/220",
-            "imageName": "random-216.jpg"
+            "description": "WS Price: INR 130"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "MG210-IS",
@@ -6093,11 +6093,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "124",
-            "description": "WS Price: INR 130",
-            "imageData": "https://picsum.photos/seed/rukhi-217/320/220",
-            "imageName": "random-217.jpg"
+            "description": "WS Price: INR 130"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "C-115-I",
@@ -6107,11 +6107,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "155",
-            "description": "WS Price: INR 170",
-            "imageData": "https://picsum.photos/seed/rukhi-218/320/220",
-            "imageName": "random-218.jpg"
+            "description": "WS Price: INR 170"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "C-115-IS",
@@ -6121,11 +6121,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "155",
-            "description": "WS Price: INR 170",
-            "imageData": "https://picsum.photos/seed/rukhi-219/320/220",
-            "imageName": "random-219.jpg"
+            "description": "WS Price: INR 170"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "C-115-SK",
@@ -6135,11 +6135,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "155",
-            "description": "WS Price: INR 170",
-            "imageData": "https://picsum.photos/seed/rukhi-220/320/220",
-            "imageName": "random-220.jpg"
+            "description": "WS Price: INR 170"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "SOLDERING IRON TIP OSS T-12 KUS",
@@ -6149,11 +6149,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "130",
-            "description": "WS Price: INR 145",
-            "imageData": "https://picsum.photos/seed/rukhi-221/320/220",
-            "imageName": "random-221.jpg"
+            "description": "WS Price: INR 145"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "SOLDERING IRON TIP OSS T-12 SKUS",
@@ -6163,11 +6163,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "125",
-            "description": "WS Price: INR 145",
-            "imageData": "https://picsum.photos/seed/rukhi-222/320/220",
-            "imageName": "random-222.jpg"
+            "description": "WS Price: INR 145"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "SOLDERING IRON TIP OSS T-12 BLS",
@@ -6177,11 +6177,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "130",
-            "description": "WS Price: INR 140",
-            "imageData": "https://picsum.photos/seed/rukhi-223/320/220",
-            "imageName": "random-223.jpg"
+            "description": "WS Price: INR 140"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "SOLDERING IRON TIP OSS C210-018",
@@ -6191,11 +6191,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "125",
-            "description": "WS Price: INR 135",
-            "imageData": "https://picsum.photos/seed/rukhi-224/320/220",
-            "imageName": "random-224.jpg"
+            "description": "WS Price: INR 135"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       }
     ]
   },
@@ -6203,130 +6203,130 @@ export const generatedCatalogSeed = [
     "name": "SYRINGE TYPE",
     "items": [
       {
-        "name": "217\u00b0C SOLDER PASTE MASTERGO MG-1740",
+        "name": "217°C SOLDER PASTE MASTERGO MG-1740",
         "modelNumber": "MASTERGO MG-1740",
-        "description": "217\u00b0C SOLDER PASTE",
+        "description": "217°C SOLDER PASTE",
         "variants": [
           {
             "name": "Standard",
             "price": "125",
-            "description": "WS Price: INR 135",
-            "imageData": "https://picsum.photos/seed/rukhi-408/320/220",
-            "imageName": "random-408.jpg"
+            "description": "WS Price: INR 135"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
-        "name": "2602 [183\u00b0C]",
-        "modelNumber": "2602 [183\u00b0C]",
+        "name": "2602 [183°C]",
+        "modelNumber": "2602 [183°C]",
         "description": "Imported from price list PDF.",
         "variants": [
           {
             "name": "Standard",
             "price": "188",
-            "description": "WS Price: INR 197",
-            "imageData": "https://picsum.photos/seed/rukhi-409/320/220",
-            "imageName": "random-409.jpg"
+            "description": "WS Price: INR 197"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
-        "name": "2602 [138\u00b0C]",
-        "modelNumber": "2602 [138\u00b0C]",
+        "name": "2602 [138°C]",
+        "modelNumber": "2602 [138°C]",
         "description": "Imported from price list PDF.",
         "variants": [
           {
             "name": "Standard",
             "price": "188",
-            "description": "WS Price: INR 197",
-            "imageData": "https://picsum.photos/seed/rukhi-410/320/220",
-            "imageName": "random-410.jpg"
+            "description": "WS Price: INR 197"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
-        "name": "RL-403S [183\u008f \u00b0C]",
-        "modelNumber": "[183\u008f \u00b0C]",
+        "name": "RL-403S [183 °C]",
+        "modelNumber": "[183 °C]",
         "description": "RL-403S",
         "variants": [
           {
             "name": "Standard",
             "price": "185",
-            "description": "WS Price: INR 195",
-            "imageData": "https://picsum.photos/seed/rukhi-411/320/220",
-            "imageName": "random-411.jpg"
+            "description": "WS Price: INR 195"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
-        "name": "RL-404S [138\u008f \u00b0C]",
-        "modelNumber": "[138\u008f \u00b0C]",
+        "name": "RL-404S [138 °C]",
+        "modelNumber": "[138 °C]",
         "description": "RL-404S",
         "variants": [
           {
             "name": "Standard",
             "price": "185",
-            "description": "WS Price: INR 195",
-            "imageData": "https://picsum.photos/seed/rukhi-412/320/220",
-            "imageName": "random-412.jpg"
+            "description": "WS Price: INR 195"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
-        "name": "217\u00b0C SOLDER PASTE MASTERGO MG-1750",
+        "name": "217°C SOLDER PASTE MASTERGO MG-1750",
         "modelNumber": "MASTERGO MG-1750",
-        "description": "217\u00b0C SOLDER PASTE",
+        "description": "217°C SOLDER PASTE",
         "variants": [
           {
             "name": "Standard",
             "price": "155",
-            "description": "WS Price: INR 160",
-            "imageData": "https://picsum.photos/seed/rukhi-413/320/220",
-            "imageName": "random-413.jpg"
+            "description": "WS Price: INR 160"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
-        "name": "SOLDER PASTE PPD X-G50 [183\u00b0C]",
-        "modelNumber": "[183\u00b0C]",
+        "name": "SOLDER PASTE PPD X-G50 [183°C]",
+        "modelNumber": "[183°C]",
         "description": "SOLDER PASTE PPD | X-G50",
         "variants": [
           {
             "name": "Standard",
             "price": "115",
-            "description": "WS Price: INR 120",
-            "imageData": "https://picsum.photos/seed/rukhi-414/320/220",
-            "imageName": "random-414.jpg"
+            "description": "WS Price: INR 120"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
-        "name": "SPECIAL SOLDER PASTE PPD ZW-50 [183\u00b0]",
-        "modelNumber": "[183\u00b0]",
+        "name": "SPECIAL SOLDER PASTE PPD ZW-50 [183°]",
+        "modelNumber": "[183°]",
         "description": "SPECIAL SOLDER PASTE PPD | ZW-50",
         "variants": [
           {
             "name": "Standard",
             "price": "190",
-            "description": "WS Price: INR 200",
-            "imageData": "https://picsum.photos/seed/rukhi-415/320/220",
-            "imageName": "random-415.jpg"
+            "description": "WS Price: INR 200"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
-        "name": "SPECIAL SOLDER PASTE PPD CPG-90 BETA [199\u00b0C]",
-        "modelNumber": "[199\u00b0C]",
+        "name": "SPECIAL SOLDER PASTE PPD CPG-90 BETA [199°C]",
+        "modelNumber": "[199°C]",
         "description": "SPECIAL SOLDER PASTE PPD | CPG-90 BETA",
         "variants": [
           {
             "name": "Standard",
             "price": "175",
-            "description": "WS Price: INR 190",
-            "imageData": "https://picsum.photos/seed/rukhi-416/320/220",
-            "imageName": "random-416.jpg"
+            "description": "WS Price: INR 190"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       }
     ]
   },
@@ -6341,11 +6341,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "56",
-            "description": "WS Price: INR 60",
-            "imageData": "https://picsum.photos/seed/rukhi-489/320/220",
-            "imageName": "random-489.jpg"
+            "description": "WS Price: INR 60"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "MULTI-FUNCTIONAL WORKING MAT MECHANIC V-78",
@@ -6355,11 +6355,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "450",
-            "description": "WS Price: INR 480",
-            "imageData": "https://picsum.photos/seed/rukhi-490/320/220",
-            "imageName": "random-490.jpg"
+            "description": "WS Price: INR 480"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "HIGH TEMPERATURE REPAIR MAT MECHANIC V-59",
@@ -6369,11 +6369,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "80",
-            "description": "WS Price: INR 90",
-            "imageData": "https://picsum.photos/seed/rukhi-491/320/220",
-            "imageName": "random-491.jpg"
+            "description": "WS Price: INR 90"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "HIGH TEMPERATURE REPAIR MAT MECHANIC V-52",
@@ -6383,11 +6383,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "145",
-            "description": "WS Price: INR 160",
-            "imageData": "https://picsum.photos/seed/rukhi-492/320/220",
-            "imageName": "random-492.jpg"
+            "description": "WS Price: INR 160"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "TIN PLANTING ARC PAD BG TOOLS ARC PAD",
@@ -6397,11 +6397,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "190",
-            "description": "WS Price: INR 200",
-            "imageData": "https://picsum.photos/seed/rukhi-493/320/220",
-            "imageName": "random-493.jpg"
+            "description": "WS Price: INR 200"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       }
     ]
   },
@@ -6416,11 +6416,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "145",
-            "description": "WS Price: INR 155",
-            "imageData": "https://picsum.photos/seed/rukhi-354/320/220",
-            "imageName": "random-354.jpg"
+            "description": "WS Price: INR 155"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "TWEEZER KOOCU ST-25",
@@ -6430,11 +6430,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "64",
-            "description": "WS Price: INR 70",
-            "imageData": "https://picsum.photos/seed/rukhi-355/320/220",
-            "imageName": "random-355.jpg"
+            "description": "WS Price: INR 70"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "TWEEZER KOOCU ST-15",
@@ -6444,11 +6444,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "45",
-            "description": "WS Price: INR 50",
-            "imageData": "https://picsum.photos/seed/rukhi-356/320/220",
-            "imageName": "random-356.jpg"
+            "description": "WS Price: INR 50"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "H1-16A",
@@ -6458,11 +6458,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "146",
-            "description": "WS Price: INR 155",
-            "imageData": "https://picsum.photos/seed/rukhi-357/320/220",
-            "imageName": "random-357.jpg"
+            "description": "WS Price: INR 155"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "H2-16A",
@@ -6472,11 +6472,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "146",
-            "description": "WS Price: INR 155",
-            "imageData": "https://picsum.photos/seed/rukhi-358/320/220",
-            "imageName": "random-358.jpg"
+            "description": "WS Price: INR 155"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "3D-TWEEZER 2UUL TW-01",
@@ -6486,11 +6486,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "335",
-            "description": "WS Price: INR 350",
-            "imageData": "https://picsum.photos/seed/rukhi-359/320/220",
-            "imageName": "random-359.jpg"
+            "description": "WS Price: INR 350"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "TWEEZER 2UUL TW-22",
@@ -6500,11 +6500,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "199",
-            "description": "WS Price: INR 220",
-            "imageData": "https://picsum.photos/seed/rukhi-360/320/220",
-            "imageName": "random-360.jpg"
+            "description": "WS Price: INR 220"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "3D-TWEEZER KOOCU KC-3D",
@@ -6514,11 +6514,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "195",
-            "description": "WS Price: INR 220",
-            "imageData": "https://picsum.photos/seed/rukhi-361/320/220",
-            "imageName": "random-361.jpg"
+            "description": "WS Price: INR 220"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "TWEEZER MECHANIC AAA-15",
@@ -6528,11 +6528,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "90",
-            "description": "WS Price: INR 100",
-            "imageData": "https://picsum.photos/seed/rukhi-362/320/220",
-            "imageName": "random-362.jpg"
+            "description": "WS Price: INR 100"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       }
     ]
   },
@@ -6547,11 +6547,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "105",
-            "description": "WS Price: INR 110",
-            "imageData": "https://picsum.photos/seed/rukhi-363/320/220",
-            "imageName": "random-363.jpg"
+            "description": "WS Price: INR 110"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "TWEEZER RELIFE RT-14SA",
@@ -6561,11 +6561,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "105",
-            "description": "WS Price: INR 110",
-            "imageData": "https://picsum.photos/seed/rukhi-364/320/220",
-            "imageName": "random-364.jpg"
+            "description": "WS Price: INR 110"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "TWEEZER RELIFE ST-20",
@@ -6575,11 +6575,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "135",
-            "description": "WS Price: INR 145",
-            "imageData": "https://picsum.photos/seed/rukhi-365/320/220",
-            "imageName": "random-365.jpg"
+            "description": "WS Price: INR 145"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "TWEEZER LUOWEI IS-20",
@@ -6589,11 +6589,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "178",
-            "description": "WS Price: INR 195",
-            "imageData": "https://picsum.photos/seed/rukhi-366/320/220",
-            "imageName": "random-366.jpg"
+            "description": "WS Price: INR 195"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "TWEEZER KOOCU ST-30",
@@ -6603,11 +6603,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "135",
-            "description": "WS Price: INR 150",
-            "imageData": "https://picsum.photos/seed/rukhi-367/320/220",
-            "imageName": "random-367.jpg"
+            "description": "WS Price: INR 150"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "TWEEZER ONE-STOP ST-30",
@@ -6617,11 +6617,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "108",
-            "description": "WS Price: INR 125",
-            "imageData": "https://picsum.photos/seed/rukhi-368/320/220",
-            "imageName": "random-368.jpg"
+            "description": "WS Price: INR 125"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "TWEEZER ONE-STOP TW-22",
@@ -6631,11 +6631,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "129",
-            "description": "WS Price: INR 140",
-            "imageData": "https://picsum.photos/seed/rukhi-369/320/220",
-            "imageName": "random-369.jpg"
+            "description": "WS Price: INR 140"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "G-11",
@@ -6645,11 +6645,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "152",
-            "description": "WS Price: INR 160",
-            "imageData": "https://picsum.photos/seed/rukhi-370/320/220",
-            "imageName": "random-370.jpg"
+            "description": "WS Price: INR 160"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "G-15",
@@ -6659,11 +6659,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "152",
-            "description": "WS Price: INR 160",
-            "imageData": "https://picsum.photos/seed/rukhi-371/320/220",
-            "imageName": "random-371.jpg"
+            "description": "WS Price: INR 160"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "TWEEZER AAA-14",
@@ -6673,11 +6673,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "100",
-            "description": "WS Price: INR 105",
-            "imageData": "https://picsum.photos/seed/rukhi-372/320/220",
-            "imageName": "random-372.jpg"
+            "description": "WS Price: INR 105"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "AAA-15",
@@ -6687,11 +6687,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "100",
-            "description": "WS Price: INR 105",
-            "imageData": "https://picsum.photos/seed/rukhi-373/320/220",
-            "imageName": "random-373.jpg"
+            "description": "WS Price: INR 105"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "TW-11",
@@ -6701,11 +6701,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "35",
-            "description": "WS Price: INR 40",
-            "imageData": "https://picsum.photos/seed/rukhi-374/320/220",
-            "imageName": "random-374.jpg"
+            "description": "WS Price: INR 40"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "TW-15",
@@ -6715,11 +6715,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "35",
-            "description": "WS Price: INR 40",
-            "imageData": "https://picsum.photos/seed/rukhi-375/320/220",
-            "imageName": "random-375.jpg"
+            "description": "WS Price: INR 40"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "TW-15K",
@@ -6729,11 +6729,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "40",
-            "description": "WS Price: INR 45",
-            "imageData": "https://picsum.photos/seed/rukhi-376/320/220",
-            "imageName": "random-376.jpg"
+            "description": "WS Price: INR 45"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "TW-11K",
@@ -6743,11 +6743,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "40",
-            "description": "WS Price: INR 45",
-            "imageData": "https://picsum.photos/seed/rukhi-377/320/220",
-            "imageName": "random-377.jpg"
+            "description": "WS Price: INR 45"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "TWEEZER ONE-STOP ESD-15",
@@ -6757,11 +6757,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "35",
-            "description": "WS Price: INR 40",
-            "imageData": "https://picsum.photos/seed/rukhi-378/320/220",
-            "imageName": "random-378.jpg"
+            "description": "WS Price: INR 40"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       }
     ]
   },
@@ -6776,11 +6776,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "156",
-            "description": "WS Price: INR 165",
-            "imageData": "https://picsum.photos/seed/rukhi-273/320/220",
-            "imageName": "random-273.jpg"
+            "description": "WS Price: INR 165"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "Silver Jump Wire MASTERGO MG-F209",
@@ -6790,11 +6790,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "144",
-            "description": "WS Price: INR 150",
-            "imageData": "https://picsum.photos/seed/rukhi-274/320/220",
-            "imageName": "random-274.jpg"
+            "description": "WS Price: INR 150"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       }
     ]
   },
@@ -6809,11 +6809,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "12190",
-            "description": "WS Price: INR 12771",
-            "imageData": "https://picsum.photos/seed/rukhi-7/320/220",
-            "imageName": "random-7.jpg"
+            "description": "WS Price: INR 12771"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "16-inch Intelligent Laminating Machine Mechanic GAN-03 FENIX",
@@ -6823,11 +6823,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "46390",
-            "description": "WS Price: INR 48600",
-            "imageData": "https://picsum.photos/seed/rukhi-8/320/220",
-            "imageName": "random-8.jpg"
+            "description": "WS Price: INR 48600"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "INTELLIGENT VACUUMLAMINATING MACHINE FOR LCD L 2",
@@ -6837,11 +6837,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "15470",
-            "description": "WS Price: INR 16207",
-            "imageData": "https://picsum.photos/seed/rukhi-9/320/220",
-            "imageName": "random-9.jpg"
+            "description": "WS Price: INR 16207"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "AIRBAG LAMINATING MACHINE MECHANIC GAN-03 ABAG",
@@ -6851,11 +6851,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "11875",
-            "description": "WS Price: INR 12450",
-            "imageData": "https://picsum.photos/seed/rukhi-10/320/220",
-            "imageName": "random-10.jpg"
+            "description": "WS Price: INR 12450"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "Full-auto UV Laser Screen Removal Machine GT-3",
@@ -6865,11 +6865,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "221951",
-            "description": "WS Price: INR 232520",
-            "imageData": "https://picsum.photos/seed/rukhi-11/320/220",
-            "imageName": "random-11.jpg"
+            "description": "WS Price: INR 232520"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "MINI LASER MACHINE SUNSHINE SS-890B",
@@ -6879,11 +6879,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "26500",
-            "description": "WS Price: INR 27000",
-            "imageData": "https://picsum.photos/seed/rukhi-12/320/220",
-            "imageName": "random-12.jpg"
+            "description": "WS Price: INR 27000"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "ULTRASONIC CLEANER YCS C-08",
@@ -6893,11 +6893,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1935",
-            "description": "WS Price: INR 2050",
-            "imageData": "https://picsum.photos/seed/rukhi-13/320/220",
-            "imageName": "random-13.jpg"
+            "description": "WS Price: INR 2050"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       }
     ]
   },
@@ -6912,11 +6912,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1120",
-            "description": "WS Price: INR 1150",
-            "imageData": "https://picsum.photos/seed/rukhi-494/320/220",
-            "imageName": "random-494.jpg"
+            "description": "WS Price: INR 1150"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "USB CHARGER [40WATT] [PURPLE-BLUE-BLACK] SS-304Q",
@@ -6926,11 +6926,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "765",
-            "description": "WS Price: INR 780",
-            "imageData": "https://picsum.photos/seed/rukhi-495/320/220",
-            "imageName": "random-495.jpg"
+            "description": "WS Price: INR 780"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "USB CHARGER [40WATT] SUNSHINE SS-304Q",
@@ -6940,11 +6940,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "780",
-            "description": "WS Price: INR 820",
-            "imageData": "https://picsum.photos/seed/rukhi-496/320/220",
-            "imageName": "random-496.jpg"
+            "description": "WS Price: INR 820"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "USB CHARGER [40 WATT] RELIFE RL-304P",
@@ -6954,11 +6954,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "915",
-            "description": "WS Price: INR 950",
-            "imageData": "https://picsum.photos/seed/rukhi-497/320/220",
-            "imageName": "random-497.jpg"
+            "description": "WS Price: INR 950"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "MULTI PORT WIRELESS CHARGING 2UUL PC-11",
@@ -6968,11 +6968,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "2155",
-            "description": "WS Price: INR 2200",
-            "imageData": "https://picsum.photos/seed/rukhi-498/320/220",
-            "imageName": "random-498.jpg"
+            "description": "WS Price: INR 2200"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "USB CHARGER [50WATT] MECHANIC F POWER 6S",
@@ -6982,11 +6982,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1120",
-            "description": "WS Price: INR 1180",
-            "imageData": "https://picsum.photos/seed/rukhi-499/320/220",
-            "imageName": "random-499.jpg"
+            "description": "WS Price: INR 1180"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "USB CHARGER [50WATT] MECHANIC C POWER 6C",
@@ -6996,11 +6996,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1215",
-            "description": "WS Price: INR 1250",
-            "imageData": "https://picsum.photos/seed/rukhi-500/320/220",
-            "imageName": "random-500.jpg"
+            "description": "WS Price: INR 1250"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       }
     ]
   },
@@ -7015,11 +7015,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "425",
-            "description": "WS Price: INR 450",
-            "imageData": "https://picsum.photos/seed/rukhi-171/320/220",
-            "imageName": "random-171.jpg"
+            "description": "WS Price: INR 450"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "UV CURING LAMP 2UUL SC-08",
@@ -7029,11 +7029,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "450",
-            "description": "WS Price: INR 480",
-            "imageData": "https://picsum.photos/seed/rukhi-172/320/220",
-            "imageName": "random-172.jpg"
+            "description": "WS Price: INR 480"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "UV CURING LAMP 2UUL SC-05",
@@ -7043,11 +7043,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "1290",
-            "description": "WS Price: INR 1350",
-            "imageData": "https://picsum.photos/seed/rukhi-173/320/220",
-            "imageName": "random-173.jpg"
+            "description": "WS Price: INR 1350"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "COOLING EXHAUST FAN LUOWEI CF-01",
@@ -7057,11 +7057,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "620",
-            "description": "WS Price: INR 660",
-            "imageData": "https://picsum.photos/seed/rukhi-174/320/220",
-            "imageName": "random-174.jpg"
+            "description": "WS Price: INR 660"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "UV CURING FAN MIJING FS-11",
@@ -7071,11 +7071,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "560",
-            "description": "WS Price: INR 600",
-            "imageData": "https://picsum.photos/seed/rukhi-175/320/220",
-            "imageName": "random-175.jpg"
+            "description": "WS Price: INR 600"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "2 IN 1 SMART COOLING & CURING LAMP RL-014C",
@@ -7085,11 +7085,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "550",
-            "description": "WS Price: INR 600",
-            "imageData": "https://picsum.photos/seed/rukhi-176/320/220",
-            "imageName": "random-176.jpg"
+            "description": "WS Price: INR 600"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "INTELLINGENT UV CURING LIGHT RL-014D",
@@ -7099,11 +7099,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "380",
-            "description": "WS Price: INR 420",
-            "imageData": "https://picsum.photos/seed/rukhi-177/320/220",
-            "imageName": "random-177.jpg"
+            "description": "WS Price: INR 420"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       }
     ]
   },
@@ -7118,11 +7118,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "180",
-            "description": "WS Price: INR 190",
-            "imageData": "https://picsum.photos/seed/rukhi-178/320/220",
-            "imageName": "random-178.jpg"
+            "description": "WS Price: INR 190"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "UV LIGHT ONE-STOP UV-L01",
@@ -7132,11 +7132,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "265",
-            "description": "WS Price: INR 290",
-            "imageData": "https://picsum.photos/seed/rukhi-179/320/220",
-            "imageName": "random-179.jpg"
+            "description": "WS Price: INR 290"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "UV-LIGHT + LED LAMP [2IN1] KOOCU KC-7005",
@@ -7146,11 +7146,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "585",
-            "description": "WS Price: INR 650",
-            "imageData": "https://picsum.photos/seed/rukhi-180/320/220",
-            "imageName": "random-180.jpg"
+            "description": "WS Price: INR 650"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "LED LAMP SUNSHINE SS-804",
@@ -7160,11 +7160,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "760",
-            "description": "WS Price: INR 800",
-            "imageData": "https://picsum.photos/seed/rukhi-181/320/220",
-            "imageName": "random-181.jpg"
+            "description": "WS Price: INR 800"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "MAGNIFYING LED LED",
@@ -7174,11 +7174,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "160",
-            "description": "WS Price: INR 200",
-            "imageData": "https://picsum.photos/seed/rukhi-182/320/220",
-            "imageName": "random-182.jpg"
+            "description": "WS Price: INR 200"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       }
     ]
   },
@@ -7193,11 +7193,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "70",
-            "description": "WS Price: INR 75",
-            "imageData": "https://picsum.photos/seed/rukhi-501/320/220",
-            "imageName": "random-501.jpg"
+            "description": "WS Price: INR 75"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "12MM",
@@ -7207,11 +7207,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "50",
-            "description": "WS Price: INR 55",
-            "imageData": "https://picsum.photos/seed/rukhi-502/320/220",
-            "imageName": "random-502.jpg"
+            "description": "WS Price: INR 55"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "8MM",
@@ -7221,11 +7221,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "40",
-            "description": "WS Price: INR 45",
-            "imageData": "https://picsum.photos/seed/rukhi-503/320/220",
-            "imageName": "random-503.jpg"
+            "description": "WS Price: INR 45"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "6MM",
@@ -7235,11 +7235,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "30",
-            "description": "WS Price: INR 35",
-            "imageData": "https://picsum.photos/seed/rukhi-504/320/220",
-            "imageName": "random-504.jpg"
+            "description": "WS Price: INR 35"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "3mm",
@@ -7249,11 +7249,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "15",
-            "description": "WS Price: INR 18",
-            "imageData": "https://picsum.photos/seed/rukhi-505/320/220",
-            "imageName": "random-505.jpg"
+            "description": "WS Price: INR 18"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "3mm 8 10 15mm",
@@ -7263,11 +7263,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "30",
-            "description": "WS Price: INR 35",
-            "imageData": "https://picsum.photos/seed/rukhi-506/320/220",
-            "imageName": "random-506.jpg"
+            "description": "WS Price: INR 35"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "8mm",
@@ -7277,11 +7277,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "55",
-            "description": "WS Price: INR 60",
-            "imageData": "https://picsum.photos/seed/rukhi-507/320/220",
-            "imageName": "random-507.jpg"
+            "description": "WS Price: INR 60"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "10mm",
@@ -7291,11 +7291,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "60",
-            "description": "WS Price: INR 65",
-            "imageData": "https://picsum.photos/seed/rukhi-508/320/220",
-            "imageName": "random-508.jpg"
+            "description": "WS Price: INR 65"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "12mm",
@@ -7305,11 +7305,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "70",
-            "description": "WS Price: INR 75",
-            "imageData": "https://picsum.photos/seed/rukhi-509/320/220",
-            "imageName": "random-509.jpg"
+            "description": "WS Price: INR 75"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "15mm",
@@ -7319,11 +7319,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "85",
-            "description": "WS Price: INR 90",
-            "imageData": "https://picsum.photos/seed/rukhi-510/320/220",
-            "imageName": "random-510.jpg"
+            "description": "WS Price: INR 90"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "20mm",
@@ -7333,11 +7333,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "115",
-            "description": "WS Price: INR 120",
-            "imageData": "https://picsum.photos/seed/rukhi-511/320/220",
-            "imageName": "random-511.jpg"
+            "description": "WS Price: INR 120"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "GREEN TAPE GREEN TAPE",
@@ -7347,11 +7347,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "16",
-            "description": "WS Price: INR 20",
-            "imageData": "https://picsum.photos/seed/rukhi-512/320/220",
-            "imageName": "random-512.jpg"
+            "description": "WS Price: INR 20"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "3MM",
@@ -7361,11 +7361,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "22",
-            "description": "WS Price: INR 25",
-            "imageData": "https://picsum.photos/seed/rukhi-513/320/220",
-            "imageName": "random-513.jpg"
+            "description": "WS Price: INR 25"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "5MM",
@@ -7375,11 +7375,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "35",
-            "description": "WS Price: INR 40",
-            "imageData": "https://picsum.photos/seed/rukhi-514/320/220",
-            "imageName": "random-514.jpg"
+            "description": "WS Price: INR 40"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "10MM",
@@ -7389,11 +7389,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "46",
-            "description": "WS Price: INR 50",
-            "imageData": "https://picsum.photos/seed/rukhi-515/320/220",
-            "imageName": "random-515.jpg"
+            "description": "WS Price: INR 50"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "RESISTANT TAPE MECHANIC & IFIXES SILVER TAPE 12mm",
@@ -7403,11 +7403,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "32",
-            "description": "WS Price: INR 40",
-            "imageData": "https://picsum.photos/seed/rukhi-516/320/220",
-            "imageName": "random-516.jpg"
+            "description": "WS Price: INR 40"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       }
     ]
   },
@@ -7422,11 +7422,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "225",
-            "description": "WS Price: INR 250",
-            "imageData": "https://picsum.photos/seed/rukhi-245/320/220",
-            "imageName": "random-245.jpg"
+            "description": "WS Price: INR 250"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "NANO CLEAN SPONGES MECHANIC NC-800",
@@ -7436,11 +7436,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "115",
-            "description": "WS Price: INR 140",
-            "imageData": "https://picsum.photos/seed/rukhi-246/320/220",
-            "imageName": "random-246.jpg"
+            "description": "WS Price: INR 140"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "WIPES KOOCU KC-4004 [400PCS]",
@@ -7450,11 +7450,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "220",
-            "description": "WS Price: INR 250",
-            "imageData": "https://picsum.photos/seed/rukhi-247/320/220",
-            "imageName": "random-247.jpg"
+            "description": "WS Price: INR 250"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "FIRM FOAM FOR REPAIR CLEANING 2UUL SC-07",
@@ -7464,11 +7464,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "80",
-            "description": "WS Price: INR 85",
-            "imageData": "https://picsum.photos/seed/rukhi-248/320/220",
-            "imageName": "random-248.jpg"
+            "description": "WS Price: INR 85"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "MICROFIBER CLEANING WIPER 2UUL CL-01",
@@ -7478,11 +7478,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "160",
-            "description": "WS Price: INR 165",
-            "imageData": "https://picsum.photos/seed/rukhi-249/320/220",
-            "imageName": "random-249.jpg"
+            "description": "WS Price: INR 165"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       },
       {
         "name": "COLOR WIPERS CLOTHES COLOR",
@@ -7492,11 +7492,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "44",
-            "description": "WS Price: INR 50",
-            "imageData": "https://picsum.photos/seed/rukhi-250/320/220",
-            "imageName": "random-250.jpg"
+            "description": "WS Price: INR 50"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-1/320/220",
+        "imageName": "item-image-1.jpg"
       },
       {
         "name": "CLEANROOM WIPERS WIPERS [100PCS]",
@@ -7506,11 +7506,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "44",
-            "description": "WS Price: INR 50",
-            "imageData": "https://picsum.photos/seed/rukhi-251/320/220",
-            "imageName": "random-251.jpg"
+            "description": "WS Price: INR 50"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-2/320/220",
+        "imageName": "item-image-2.jpg"
       },
       {
         "name": "CLEANROOM WIPERS HK-5090 [100PCS]",
@@ -7520,11 +7520,11 @@ export const generatedCatalogSeed = [
           {
             "name": "Standard",
             "price": "40",
-            "description": "WS Price: INR 45",
-            "imageData": "https://picsum.photos/seed/rukhi-252/320/220",
-            "imageName": "random-252.jpg"
+            "description": "WS Price: INR 45"
           }
-        ]
+        ],
+        "imageData": "https://picsum.photos/seed/rukhi-item-3/320/220",
+        "imageName": "item-image-3.jpg"
       }
     ]
   }

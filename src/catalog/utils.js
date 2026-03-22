@@ -15,8 +15,6 @@ export const emptyVariant = () => ({
   name: '',
   price: '',
   description: '',
-  imageData: '',
-  imageName: '',
 })
 
 export const emptyItemForm = () => ({
@@ -38,16 +36,14 @@ export const seedCatalog = generatedCatalogSeed.map((category) => ({
     name: item.name,
     modelNumber: item.modelNumber,
     description: item.description,
-    imageData: item.imageData || item.variants?.[0]?.imageData || '',
-    imageName: item.imageName || item.variants?.[0]?.imageName || '',
+    imageData: item.imageData || '',
+    imageName: item.imageName || '',
     variants:
       item.variants?.map((variant) => ({
         id: uid(),
         name: variant.name,
         price: variant.price,
         description: variant.description,
-        imageData: variant.imageData || '',
-        imageName: variant.imageName || '',
       })) || [],
   })),
 }))
@@ -60,7 +56,4 @@ export const sanitizeVariants = (variants) =>
       price: variant.price.trim(),
       description: variant.description.trim(),
     }))
-    .filter(
-      (variant) =>
-        variant.name || variant.price || variant.description || variant.imageData,
-    )
+    .filter((variant) => variant.name || variant.price || variant.description)

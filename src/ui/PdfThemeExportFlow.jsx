@@ -14,7 +14,7 @@ const ui = {
 const IMAGE_WIDTH_CACHE = new Map()
 
 const getItemImageSource = (item) =>
-  item.imageData || item.variants?.find((variant) => variant.imageData)?.imageData || ''
+  item.imageData || ''
 
 const getPageUnitLimit = (themeId) => {
   if (themeId === 'theme2') {
@@ -200,10 +200,6 @@ const optimizeCatalogImageWidth = async (catalog, onProgress) => {
       return {
         ...item,
         imageData: optimizedItemImage,
-        variants: (item.variants || []).map((variant) => ({
-          ...variant,
-          imageData: optimizedMap.get(variant.imageData) || optimizedItemImage || '',
-        })),
       }
     }),
   }))

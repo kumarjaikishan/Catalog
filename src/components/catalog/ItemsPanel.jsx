@@ -10,7 +10,7 @@ const ItemsPanel = ({
   deleteItem,
 }) => {
   return (
-    <main className={ui.card}>
+    <main className={` ${ui.card}  h-fit`}>
       <div className="mb-2.5 flex items-center justify-between">
         <h2 className="text-xl">Items</h2>
         <button type="button" className={ui.btnSmall} onClick={() => openNewItemModal()}>
@@ -49,7 +49,7 @@ const ItemsPanel = ({
                       <div className="shadow-2xl">
                         <img
                           className=" w-20 h-20 rounded-xl object-cover"
-                          src={item?.variants?.[0]?.imageData} alt="" />
+                          src={item?.imageData || ''} alt="" />
                       </div>
                       <div>
                         <strong>{item.name}</strong>

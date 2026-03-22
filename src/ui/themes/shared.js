@@ -1,5 +1,5 @@
 export const getItemImage = (item) =>
-  item.imageData || item.variants?.find((variant) => variant.imageData)?.imageData || ''
+  item.imageData || ''
 
 export const getWsPrice = (description = '') => {
   const match = description.match(/WS\s*Price\s*:\s*INR\s*([\d,.]+)/i)

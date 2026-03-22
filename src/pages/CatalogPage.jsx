@@ -198,8 +198,6 @@ const CatalogPage = ({ catalog, setCatalog }) => {
       imageName: itemForm.imageName || '',
       variants: variants.map((variant) => ({
         ...variant,
-        imageData: itemForm.imageData || '',
-        imageName: itemForm.imageName || '',
       })),
     }
 
@@ -234,8 +232,8 @@ const CatalogPage = ({ catalog, setCatalog }) => {
       name: item.name,
       modelNumber: item.modelNumber,
       description: item.description,
-      imageData: item.imageData || item.variants?.[0]?.imageData || '',
-      imageName: item.imageName || item.variants?.[0]?.imageName || '',
+      imageData: item.imageData || '',
+      imageName: item.imageName || '',
       variants:
         item.variants?.length > 0
           ? item.variants.map((variant) => ({ ...variant }))

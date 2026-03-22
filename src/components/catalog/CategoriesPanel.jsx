@@ -15,7 +15,7 @@ const CategoriesPanel = ({
   deleteCategory,
 }) => {
   return (
-    <aside className={ui.card}>
+    <aside className={`${ui.card} h-fit`}>
       <h2 className="mb-3 text-xl">Categories</h2>
       <form onSubmit={addCategory} className="grid gap-2.5">
         <input
