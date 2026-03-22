@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #f7f2eb;
+  --panel: #fffdf7;
+  --ink: #1f2937;
+  --muted: #64748b;
+  --line: #e8dccb;
+  --brand: #b45309;
+  --brand-strong: #7c2d12;
+  --danger: #b91c1c;
+  --sky: #0f4c81;
+
+  font-family: 'Manrope', 'Poppins', 'Trebuchet MS', sans-serif;
+  line-height: 1.4;
+  color: var(--ink);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(circle at 10% 10%, #ffe7be 0%, transparent 35%),
+    radial-gradient(circle at 90% 20%, #bfdbfe 0%, transparent 32%),
+    linear-gradient(180deg, #fffaf1 0%, #f6f1e9 100%);
+  min-height: 100vh;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+input,
+select,
+textarea {
+  width: 100%;
+  border: 1px solid #d7c4ab;
+  border-radius: 10px;
+  padding: 10px 12px;
+  background: #fff;
+}
+
+textarea {
+  resize: vertical;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  outline: 2px solid rgba(245, 158, 11, 0.25);
+  border-color: #f59e0b;
+}
