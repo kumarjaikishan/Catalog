@@ -471,6 +471,7 @@ const CatalogPage = ({ catalog, user, slides }) => {
                   placeholder="admin@techforce.com"
                 />
               </div>
+
               <div>
                 <label className="block text-sm font-medium text-slate-300 mb-1">Password</label>
                 <input
