@@ -17,7 +17,7 @@ export const Theme3 = ({ catalog }) => {
                   <img
                     src={getItemImage(item)}
                     alt={safeText(item.name)}
-                    className="h-24 w-24 shrink-0 rounded border border-[#e5e7eb] object-contain"
+                    className="h-30 w-30 shrink-0 rounded-md border border-[#e5e7eb] object-fit"
                   />
                 ) : (
                   <div className="flex h-24 w-24 shrink-0 items-center justify-center rounded border border-[#d1d5db] text-[10px] text-[#6b7280]">

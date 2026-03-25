@@ -10,7 +10,7 @@ export const Theme4 = ({ catalog }) => {
           <div className="grid grid-cols-2 gap-4 md:grid-cols-3 lg:grid-cols-4">
             {category.items.map((item) => (
               <article key={item.id || `${item.name}-${item.modelNumber}`} className="rounded-lg border border-[#e5e7eb] bg-[#ffffff] p-3 shadow-sm">
-                {getItemImage(item) ? <img src={getItemImage(item)} alt={safeText(item.name)} className="mb-2 h-28 w-full object-contain" /> : <div className="mb-2 flex h-28 w-full items-center justify-center border border-[#d1d5db] text-[10px] text-[#6b7280]">NO IMAGE</div>}
+                {getItemImage(item) ? <img src={getItemImage(item)} alt={safeText(item.name)} className="mb-2 h-30 w-full object-fit rounded-md" /> : <div className="mb-2 flex h-28 w-full items-center justify-center border border-[#d1d5db] text-[10px] text-[#6b7280]">NO IMAGE</div>}
 
                 <h3 className="break-words text-sm font-semibold text-[#111827]">{safeText(item.name)}</h3>
 

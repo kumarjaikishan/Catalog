@@ -35,12 +35,12 @@ export const Theme2 = ({ catalog }) => {
                     ) : null}
 
                     {index === 0 ? (
-                      <td rowSpan={variants.length} className="border border-[#000000] p-2 align-middle text-center">
+                      <td rowSpan={variants.length} className="border border-[#000000] p-1 align-middle text-center">
                         {getItemImage(item) ? (
                           <img
                             src={getItemImage(item)}
                             alt={safeText(item.name)}
-                            className="mx-auto h-20 w-20 object-contain"
+                            className="mx-auto h-30 w-30 object-fit rounded-md"
                           />
                         ) : (
                           <div className="mx-auto flex h-20 w-20 items-center justify-center border border-[#d1d5db] text-[10px] text-[#6b7280]">

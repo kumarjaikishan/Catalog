@@ -26,7 +26,7 @@ export const Theme1 = ({ catalog }) => {
                         <img
                           src={getItemImage(item)}
                           alt={safeText(item.name)}
-                          className="h-28 w-28 object-contain"
+                          className="h-30 w-30 object-fit shadow-lg rounded-md"
                         />
                       ) : (
                         <div className="flex h-28 w-28 items-center justify-center rounded border border-[#d1d5db] text-[10px] text-[#6b7280]">
