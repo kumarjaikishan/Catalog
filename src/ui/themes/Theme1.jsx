@@ -17,9 +17,9 @@ export const Theme1 = ({ catalog }) => {
               >
                 <div className="grid grid-cols-[44%_56%]">
                   <div className="border-r border-dotted border-[#d1d5db] p-2">
-                    <div className="mb-2 inline-block rounded bg-[#dc2626] px-2 py-[2px] text-[10px] text-[#ffffff]">
+                    {/* <div className="mb-2 inline-block rounded bg-[#dc2626] px-2 py-[2px] text-[10px] text-[#ffffff]">
                       100% ORIGINAL
-                    </div>
+                    </div> */}
 
                     <div className="mb-3 flex justify-center">
                       {getItemImage(item) ? (

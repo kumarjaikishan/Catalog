@@ -28,7 +28,7 @@ export const Theme2 = ({ catalog }) => {
                   <tr key={variant.id || `${item.id || item.name}-${index}`}>
                     {index === 0 ? (
                       <td rowSpan={variants.length} className="border border-[#000000] p-2 align-top">
-                        <div className="mb-2 inline-block bg-[#dc2626] px-1 text-[10px] text-[#ffffff]">100% ORIGINAL</div>
+                        {/* <div className="mb-2 inline-block bg-[#dc2626] px-1 text-[10px] text-[#ffffff]">100% ORIGINAL</div> */}
                         <div className="break-words text-center font-bold uppercase">{safeText(item.name)}</div>
                         <div className="mt-1 break-words text-center text-[10px] text-[#4b5563]">{safeText(item.description)}</div>
                       </td>
