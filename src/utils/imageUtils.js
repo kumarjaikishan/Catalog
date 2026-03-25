@@ -12,7 +12,7 @@ export const processImage = async (file) => {
       img.src = event.target.result
       img.onload = () => {
         const canvas = document.createElement('canvas')
-        const maxWidth = 500
+        const maxWidth = 350
         let width = img.width
         let height = img.height
 
@@ -30,7 +30,7 @@ export const processImage = async (file) => {
         // Convert to WebP with 0.8 quality
         const dataUrl = canvas.toDataURL('image/webp', 0.8)
         const newName = file.name.replace(/\.[^/.]+$/, "") + ".webp"
-        
+
         resolve({
           base64: dataUrl,
           name: newName
