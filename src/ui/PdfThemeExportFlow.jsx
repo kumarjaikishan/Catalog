@@ -346,9 +346,19 @@ const PdfThemeExportFlow = ({ catalog, onClose }) => {
             <h1 className="text-2xl font-semibold text-[#1f2937]">PDF Export Page</h1>
             <p className="text-sm text-slate-600">Full real-data preview and export</p>
           </div>
-          <button type="button" className={ui.btn} onClick={onClose} disabled={isGenerating}>
-            Back To Home
-          </button>
+          <div className="flex gap-2">
+            <button
+              type="button"
+              className={ui.btnPrimary}
+              onClick={handleGenerate}
+              disabled={isGenerating || !selectedCategoryIds.length}
+            >
+              {isGenerating ? 'Generating...' : 'Generate PDF'}
+            </button>
+            <button type="button" className={ui.btn} onClick={onClose} disabled={isGenerating}>
+              Back To Home
+            </button>
+          </div>
         </header>
 
         <section className="mt-4 grid gap-4 xl:grid-cols-[320px_1fr]">
