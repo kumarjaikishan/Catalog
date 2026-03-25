@@ -8,15 +8,20 @@ const ItemsPanel = ({
   openNewItemModal,
   editItem,
   deleteItem,
+  user,
 }) => {
   return (
     <main className={` ${ui.card}  h-fit`}>
       <div className="mb-2.5 flex items-center justify-between">
-        <h2 className="text-xl">Items</h2>
-        <button type="button" className={ui.btnSmall} onClick={() => openNewItemModal()}>
-          + Add Item
-        </button>
+        <h2 className="text-xl font-bold text-slate-800">Catalog Items</h2>
+
+        {user && (
+          <button type="button" className={ui.btnSmall} onClick={() => openNewItemModal()}>
+            + Add New Item
+          </button>
+        )}
       </div>
+
 
       <div className="mb-3 grid gap-2 sm:grid-cols-[1fr_auto] sm:items-center">
         <input
@@ -58,22 +63,25 @@ const ItemsPanel = ({
                         </p>
                       </div>
                     </div>
-                    <div className="flex gap-2">
-                      <button
-                        type="button"
-                        className={ui.btnSmall}
-                        onClick={() => editItem(category.id, item)}
-                      >
-                        Edit
-                      </button>
-                      <button
-                        type="button"
-                        className={ui.btnDanger}
-                        onClick={() => deleteItem(category.id, item.id)}
-                      >
-                        Delete
-                      </button>
-                    </div>
+                    {user && (
+                      <div className="flex gap-2">
+                        <button
+                          type="button"
+                          className={ui.btnSmall}
+                          onClick={() => editItem(category.id, item)}
+                        >
+                          Edit
+                        </button>
+                        <button
+                          type="button"
+                          className={ui.btnDanger}
+                          onClick={() => deleteItem(category.id, item.id)}
+                        >
+                          Delete
+                        </button>
+                      </div>
+                    )}
+
                   </div>
                 ))}
               </article>

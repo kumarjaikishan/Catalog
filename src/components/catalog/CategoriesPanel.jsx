@@ -13,21 +13,26 @@ const CategoriesPanel = ({
   saveCategoryEdit,
   startCategoryEdit,
   deleteCategory,
+  user,
 }) => {
   return (
     <aside className={`${ui.card} h-fit`}>
-      <h2 className="mb-3 text-xl">Categories</h2>
-      <form onSubmit={addCategory} className="grid gap-2.5">
-        <input
-          className={ui.input}
-          value={categoryName}
-          onChange={(event) => setCategoryName(event.target.value)}
-          placeholder="Add category name"
-        />
-        <button type="submit" className={ui.btnPrimary}>
-          Add Category
-        </button>
-      </form>
+      <h2 className="mb-3 text-xl font-bold text-slate-800">Categories</h2>
+
+      {user && (
+        <form onSubmit={addCategory} className="grid gap-2.5 mb-4 p-3 bg-slate-50 rounded-2xl border border-slate-100 shadow-sm transition-all">
+          <input
+            className={ui.input}
+            value={categoryName}
+            onChange={(event) => setCategoryName(event.target.value)}
+            placeholder="Add category name"
+          />
+          <button type="submit" className={ui.btnPrimary + " shadow-lg shadow-orange-900/10"}>
+            Add Category
+          </button>
+        </form>
+      )}
+
 
       <div className="mt-3.5 grid gap-2">
         <button
@@ -81,28 +86,31 @@ const CategoriesPanel = ({
                   <strong>{category.name}</strong>
                   <p className="text-xs text-[#64748b]">{category.items.length} item(s)</p>
                 </div>
-                <div className="flex gap-2">
-                  <button
-                    type="button"
-                    className={ui.btnSmall}
-                    onClick={(event) => {
-                      event.stopPropagation()
-                      startCategoryEdit(category)
-                    }}
-                  >
-                    Edit
-                  </button>
-                  <button
-                    type="button"
-                    className={ui.btnDanger}
-                    onClick={(event) => {
-                      event.stopPropagation()
-                      deleteCategory(category.id)
-                    }}
-                  >
-                    Delete
-                  </button>
-                </div>
+                {user && (
+                  <div className="flex gap-2">
+                    <button
+                      type="button"
+                      className={ui.btnSmall}
+                      onClick={(event) => {
+                        event.stopPropagation()
+                        startCategoryEdit(category)
+                      }}
+                    >
+                      Edit
+                    </button>
+                    <button
+                      type="button"
+                      className={ui.btnDanger}
+                      onClick={(event) => {
+                        event.stopPropagation()
+                        deleteCategory(category.id)
+                      }}
+                    >
+                      Delete
+                    </button>
+                  </div>
+                )}
+
               </>
             )}
           </div>

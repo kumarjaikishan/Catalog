@@ -1,6 +1,6 @@
 import { generatedCatalogSeed } from '../data/pdfExtractedCatalog'
 
-export const STORAGE_KEY = 'rukhi_catalog_v3'
+export const STORAGE_KEY = 'techforce_catalog_v1'
 
 export const uid = () => {
   if (typeof crypto !== 'undefined' && crypto.randomUUID) {
