@@ -1,4 +1,6 @@
-const CategoriesPanel = ({
+import React from 'react';
+
+const CategoriesPanel = React.memo(({
   ui,
   catalog,
   selectedCategoryId,
@@ -199,6 +201,6 @@ const CategoriesPanel = ({
       </div>
     </aside>
   )
-}
+});
 
-export default CategoriesPanel
+export default CategoriesPanel;

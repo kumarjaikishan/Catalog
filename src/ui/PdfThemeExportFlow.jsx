@@ -11,6 +11,14 @@ const ui = {
     'cursor-pointer rounded-xl border border-[#7c2d12] bg-gradient-to-br from-amber-700 to-[#7c2d12] px-3.5 py-2 text-sm text-white transition hover:-translate-y-px hover:shadow-[0_8px_20px_rgba(28,24,19,0.1)] disabled:cursor-not-allowed disabled:opacity-70 disabled:shadow-none',
 }
 
+const formatTime = (ms) => {
+  if (!ms || ms < 0 || !isFinite(ms)) return '00:00'
+  const totalSeconds = Math.floor(ms / 1000)
+  const minutes = Math.floor(totalSeconds / 60)
+  const seconds = totalSeconds % 60
+  return `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`
+}
+
 const IMAGE_WIDTH_CACHE = new Map()
 
 const getItemImageSource = (item) =>
@@ -244,7 +252,13 @@ const waitForImages = async (container, onProgress) => {
 const PdfThemeExportFlow = ({ catalog, onClose }) => {
   const [selectedThemeId, setSelectedThemeId] = useState('theme1')
   const [isGenerating, setIsGenerating] = useState(false)
-  const [progress, setProgress] = useState({ step: '', loaded: 0, total: 0 })
+  const [progress, setProgress] = useState({ 
+    step: '', 
+    loaded: 0, 
+    total: 0,
+    elapsed: 0,
+    remaining: null 
+  })
   const [selectedCategoryIds, setSelectedCategoryIds] = useState([])
   const [exportCatalogOverride, setExportCatalogOverride] = useState(null)
   const previewPagesRef = useRef(null)
@@ -291,17 +305,33 @@ const PdfThemeExportFlow = ({ catalog, onClose }) => {
       return
     }
 
+    const startTime = Date.now()
     try {
       setIsGenerating(true)
-      setProgress({ step: 'Preparing pages', loaded: 0, total: 0 })
-      const optimizedCatalog = await optimizeCatalogImageWidth(filteredCatalog, setProgress)
+      setProgress({ step: 'Optimizing images...', loaded: 0, total: 0, elapsed: 0, remaining: null })
+      
+      const optimizedCatalog = await optimizeCatalogImageWidth(filteredCatalog, (p) => {
+        const now = Date.now()
+        setProgress(prev => ({ 
+          ...prev, 
+          ...p,
+          elapsed: now - startTime 
+        }))
+      })
       setExportCatalogOverride(optimizedCatalog)
-      await new Promise((resolve) => setTimeout(resolve, 80))
+      
+      await new Promise((resolve) => setTimeout(resolve, 200))
       const root = previewPagesRef.current
-      await waitForImages(root, setProgress)
+      await waitForImages(root, (p) => {
+        const now = Date.now()
+        setProgress(prev => ({ 
+          ...prev, 
+          ...p,
+          elapsed: now - startTime 
+        }))
+      })
 
       const pages = Array.from(root.querySelectorAll('.pdf-page-render'))
-
       if (!pages.length) {
         throw new Error('No pages available for export.')
       }
@@ -309,31 +339,49 @@ const PdfThemeExportFlow = ({ catalog, onClose }) => {
       const pdf = new jsPDF('p', 'mm', 'a4')
 
       for (let i = 0; i < pages.length; i += 1) {
-        setProgress({ step: `Rendering page ${i + 1}/${pages.length}`, loaded: i + 1, total: pages.length })
+        const now = Date.now()
+        const elapsed = now - startTime
+        
+        // Time estimation logic
+        let remaining = null
+        if (i > 0) {
+          const avgTimePerPage = elapsed / i
+          remaining = (pages.length - i) * avgTimePerPage
+        }
+
+        setProgress({ 
+          step: `Rendering page ${i + 1}/${pages.length}`, 
+          loaded: i + 1, 
+          total: pages.length,
+          elapsed,
+          remaining
+        })
 
         const canvas = await html2canvas(pages[i], {
-          scale: 1.35,
+          scale: 1.1,
           useCORS: true,
           backgroundColor: '#ffffff',
           logging: false,
         })
 
-        const imgData = canvas.toDataURL('image/jpeg', 0.8)
+        const imgData = canvas.toDataURL('image/jpeg', 0.75)
 
         if (i !== 0) {
           pdf.addPage()
         }
 
         pdf.addImage(imgData, 'JPEG', 0, 0, 210, 297)
+        
+        await new Promise((resolve) => setTimeout(resolve, 10))
       }
 
-      pdf.save(`catalog-${selectedTheme.id}.pdf`)
+      pdf.save(`catalog-${selectedTheme.id}-${new Date().getTime()}.pdf`)
     } catch (error) {
       console.error(error)
       alert('PDF generation failed. Please try again.')
     } finally {
       setIsGenerating(false)
-      setProgress({ step: '', loaded: 0, total: 0 })
+      setProgress({ step: '', loaded: 0, total: 0, elapsed: 0, remaining: null })
       setExportCatalogOverride(null)
     }
   }
@@ -341,20 +389,20 @@ const PdfThemeExportFlow = ({ catalog, onClose }) => {
   return (
     <>
       <div className="mx-auto min-h-screen max-w-[1240px] px-4 pb-8 pt-6">
-        <header className="flex flex-wrap items-center justify-between gap-3 rounded-2xl border border-[#e8dccb] bg-[#fffdf7] p-4 shadow-[0_10px_25px_rgba(54,32,12,0.08)]">
+        <header className="no-print flex flex-wrap items-center justify-between gap-3 rounded-2xl border border-[#e8dccb] bg-[#fffdf7] p-4 shadow-[0_10px_25px_rgba(54,32,12,0.08)]">
           <div>
             <h1 className="text-2xl font-semibold text-[#1f2937]">PDF Export Page</h1>
             <p className="text-sm text-slate-600">Full real-data preview and export</p>
           </div>
           <div className="flex gap-2">
-            <button
-              type="button"
-              className={ui.btnPrimary}
-              onClick={handleGenerate}
-              disabled={isGenerating || !selectedCategoryIds.length}
-            >
-              {isGenerating ? 'Generating...' : 'Generate PDF'}
-            </button>
+              <button
+                type="button"
+                className={ui.btnPrimary}
+                onClick={handleGenerate}
+                disabled={isGenerating || !selectedCategoryIds.length}
+              >
+                {isGenerating ? 'Generating...' : 'Download PDF'}
+              </button>
             <button type="button" className={ui.btn} onClick={onClose} disabled={isGenerating}>
               Back To Home
             </button>
@@ -362,7 +410,7 @@ const PdfThemeExportFlow = ({ catalog, onClose }) => {
         </header>
 
         <section className="mt-4 grid gap-4 xl:grid-cols-[320px_1fr]">
-          <aside className="rounded-2xl  h-fit border border-[#e8dccb] bg-[#fffdf7] p-4 shadow-[0_10px_25px_rgba(54,32,12,0.08)]">
+          <aside className="no-print rounded-2xl  h-fit border border-[#e8dccb] bg-[#fffdf7] p-4 shadow-[0_10px_25px_rgba(54,32,12,0.08)]">
             <h2 className="text-lg font-semibold text-[#1f2937]">Export Controls</h2>
 
             <div className="mt-3 grid gap-2.5">
@@ -450,7 +498,7 @@ const PdfThemeExportFlow = ({ catalog, onClose }) => {
                 onClick={handleGenerate}
                 disabled={isGenerating || !selectedCategoryIds.length}
               >
-                {isGenerating ? 'Generating...' : 'Generate PDF'}
+                {isGenerating ? 'Generating...' : 'Download PDF'}
               </button>
               <p className="text-xs text-slate-500">Exports rendered pages with image width optimized to 200px.</p>
             </div>
@@ -476,14 +524,44 @@ const PdfThemeExportFlow = ({ catalog, onClose }) => {
       </div>
 
       {isGenerating ? (
-        <div className="fixed inset-0 z-[70] grid place-items-center bg-slate-900/22 backdrop-blur-[3px]">
-          <div className="w-[min(360px,92vw)] rounded-2xl border border-[#e6d6c3] bg-white p-4 text-center shadow-[0_16px_40px_rgba(15,23,42,0.25)]">
-            <div className="mx-auto h-[34px] w-[34px] animate-spin rounded-full border-[3px] border-slate-200 border-t-[#7c2d12]" />
-            <h3 className="my-2 text-lg">Generating PDF</h3>
-            <p className="text-slate-700">
-              {progress.total > 0 ? `${progress.loaded}/${progress.total}` : 'Preparing...'}
+        <div className="no-print fixed inset-0 z-[70] grid place-items-center bg-slate-900/22 backdrop-blur-[3px]">
+          <div className="w-[min(420px,92vw)] rounded-2xl border border-[#e6d6c3] bg-white p-6 text-center shadow-[0_16px_40px_rgba(15,23,42,0.25)]">
+            <div className="mx-auto mb-4 h-10 w-10 animate-spin rounded-full border-[4px] border-slate-100 border-t-amber-600" />
+            
+            <h3 className="mb-1 text-xl font-semibold text-slate-800">Generating PDF</h3>
+            <p className="text-sm text-slate-500 mb-5">{progress.step}</p>
+
+            {/* Progress Bar Container */}
+            <div className="mb-5">
+              <div className="flex justify-between text-xs font-medium text-slate-600 mb-1.5">
+                <span>Overall Progress</span>
+                <span>{progress.total > 0 ? Math.round((progress.loaded / progress.total) * 100) : 0}%</span>
+              </div>
+              <div className="h-2 w-full overflow-hidden rounded-full bg-slate-100">
+                <div 
+                  className="h-full bg-amber-600 transition-all duration-300 ease-out"
+                  style={{ width: `${progress.total > 0 ? (progress.loaded / progress.total) * 100 : 0}%` }}
+                />
+              </div>
+            </div>
+
+            {/* Timing Stats */}
+            <div className="grid grid-cols-2 gap-4 rounded-xl bg-slate-50 p-3 text-sm">
+              <div className="text-center">
+                <p className="text-[10px] uppercase tracking-wider text-slate-500 font-bold mb-0.5">Elapsed</p>
+                <p className="font-mono text-slate-700">{formatTime(progress.elapsed)}</p>
+              </div>
+              <div className="text-center">
+                <p className="text-[10px] uppercase tracking-wider text-slate-500 font-bold mb-0.5">Remaining</p>
+                <p className="font-mono text-slate-700">
+                  {progress.remaining !== null ? formatTime(progress.remaining) : '--:--'}
+                </p>
+              </div>
+            </div>
+
+            <p className="mt-4 text-xs text-slate-400 italic">
+              Please keep this tab open until the download starts.
             </p>
-            <small className="text-slate-500">{progress.step}</small>
           </div>
         </div>
       ) : null}

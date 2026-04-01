@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { useMemo, useState, useCallback } from 'react'
 import { useNavigate } from 'react-router-dom'
 import CategoriesPanel from '../components/catalog/CategoriesPanel'
 import HeroPanel from '../components/catalog/HeroPanel'
@@ -57,7 +57,7 @@ const CatalogPage = ({ catalog, user, slides }) => {
     [catalog],
   )
 
-  const addCategory = async (event) => {
+  const addCategory = useCallback(async (event) => {
     event.preventDefault()
 
     if (!user) return
@@ -86,10 +86,10 @@ const CatalogPage = ({ catalog, user, slides }) => {
     } catch (err) {
       console.error("Add category error:", err)
     }
-  }
+  }, [user, categoryName, catalog])
 
 
-  const saveCategoryEdit = async (categoryId) => {
+  const saveCategoryEdit = useCallback(async (categoryId) => {
     if (!user) return
     const nextName = editingCategoryName.trim()
 
@@ -104,10 +104,10 @@ const CatalogPage = ({ catalog, user, slides }) => {
     } catch (err) {
       console.error("Update category error:", err)
     }
-  }
+  }, [user, editingCategoryName])
 
 
-  const deleteCategory = async (categoryId) => {
+  const deleteCategory = useCallback(async (categoryId) => {
     if (!user) return
     const category = catalog.find((entry) => entry.id === categoryId)
 
@@ -141,7 +141,7 @@ const CatalogPage = ({ catalog, user, slides }) => {
     } catch (err) {
       console.error("Delete category error:", err)
     }
-  }
+  }, [user, catalog, selectedCategoryId, itemForm.categoryId])
 
 
   const setItemField = (field, value) => {
@@ -212,7 +212,7 @@ const CatalogPage = ({ catalog, user, slides }) => {
     setItemForm(emptyItemForm())
   }
 
-  const submitItem = async (event) => {
+  const submitItem = useCallback(async (event) => {
     event.preventDefault()
 
     if (!user) return
@@ -246,7 +246,7 @@ const CatalogPage = ({ catalog, user, slides }) => {
     } catch (err) {
       console.error("Submit item error:", err)
     }
-  }
+  }, [user, itemForm])
 
 
   const editItem = (categoryId, item) => {

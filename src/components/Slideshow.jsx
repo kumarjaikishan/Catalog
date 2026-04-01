@@ -1,6 +1,6 @@
-import { useEffect, useState } from 'react'
+import React, { useEffect, useState } from 'react'
 
-const Slideshow = ({ images = [] }) => {
+const Slideshow = React.memo(({ images = [] }) => {
   const [currentIndex, setCurrentIndex] = useState(0)
 
   useEffect(() => {
@@ -33,6 +33,6 @@ const Slideshow = ({ images = [] }) => {
       <div className="absolute inset-0 bg-black/40"></div>
     </div>
   )
-}
+})
 
-export default Slideshow
+export default Slideshow;

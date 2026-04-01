@@ -68,3 +68,37 @@ textarea:focus {
   outline: 2px solid rgba(245, 158, 11, 0.25);
   border-color: #f59e0b;
 }
+
+@media print {
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  body {
+    background: white !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+
+  /* Centering the print content if it's smaller than A4 */
+  .pdf-page-render {
+    margin: 0 auto !important;
+    box-shadow: none !important;
+    page-break-after: always;
+    width: 210mm !important; /* Standard A4 width */
+    height: 297mm !important; /* Standard A4 height */
+  }
+
+  /* Hide the preview background/grid */
+  .mx-auto.grid.w-\[794px\] {
+    width: 100% !important;
+    background: transparent !important;
+    padding: 0 !important;
+    display: block !important;
+  }
+}

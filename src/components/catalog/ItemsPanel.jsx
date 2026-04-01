@@ -1,4 +1,45 @@
-const ItemsPanel = ({
+import React from 'react';
+
+const CategoryItem = React.memo(({ item, categoryId, user, editItem, deleteItem, ui }) => (
+  <div
+    className="flex flex-col justify-between gap-2.5 border-b border-[#f2e7da] p-2.5 last:border-b-0 sm:flex-row sm:items-center"
+    key={item.id}
+  >
+    <div className=" flex gap-2">
+      <div className="shadow-2xl">
+        <img
+          className=" w-20 h-20 rounded-xl object-cover"
+          src={item?.imageData || ''} alt="" />
+      </div>
+      <div>
+        <strong>{item.name}</strong>
+        <p className="text-xs text-[#64748b]">
+          Model: {item.modelNumber} | Variants: {item.variants?.length || 0}
+        </p>
+      </div>
+    </div>
+    {user && (
+      <div className="flex gap-2">
+        <button
+          type="button"
+          className={ui.btnSmall}
+          onClick={() => editItem(categoryId, item)}
+        >
+          Edit
+        </button>
+        <button
+          type="button"
+          className={ui.btnDanger}
+          onClick={() => deleteItem(categoryId, item.id)}
+        >
+          Delete
+        </button>
+      </div>
+    )}
+  </div>
+));
+
+const ItemsPanel = React.memo(({
   ui,
   categoriesToDisplay,
   searchQuery,
@@ -46,43 +87,15 @@ const ItemsPanel = ({
               <article key={category.id} className="overflow-hidden rounded-xl border border-[#eadbc8]">
                 <h3 className="border-b border-[#eadbc8] bg-[#f7ede1] px-2.5 py-2 text-sm">{category.name}</h3>
                 {category.items.map((item) => (
-                  <div
-                    className="flex flex-col justify-between gap-2.5 border-b border-[#f2e7da] p-2.5 last:border-b-0 sm:flex-row sm:items-center"
-                    key={item.id}
-                  >
-                    <div className=" flex gap-2">
-                      <div className="shadow-2xl">
-                        <img
-                          className=" w-20 h-20 rounded-xl object-cover"
-                          src={item?.imageData || ''} alt="" />
-                      </div>
-                      <div>
-                        <strong>{item.name}</strong>
-                        <p className="text-xs text-[#64748b]">
-                          Model: {item.modelNumber} | Variants: {item.variants?.length || 0}
-                        </p>
-                      </div>
-                    </div>
-                    {user && (
-                      <div className="flex gap-2">
-                        <button
-                          type="button"
-                          className={ui.btnSmall}
-                          onClick={() => editItem(category.id, item)}
-                        >
-                          Edit
-                        </button>
-                        <button
-                          type="button"
-                          className={ui.btnDanger}
-                          onClick={() => deleteItem(category.id, item.id)}
-                        >
-                          Delete
-                        </button>
-                      </div>
-                    )}
-
-                  </div>
+                  <CategoryItem 
+                    key={item.id} 
+                    item={item} 
+                    categoryId={category.id} 
+                    user={user} 
+                    editItem={editItem} 
+                    deleteItem={deleteItem} 
+                    ui={ui} 
+                  />
                 ))}
               </article>
             ) : null,
@@ -91,6 +104,6 @@ const ItemsPanel = ({
       )}
     </main>
   )
-}
+});
 
-export default ItemsPanel
+export default ItemsPanel;
